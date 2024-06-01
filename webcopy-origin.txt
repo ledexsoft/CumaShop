@@ -1,0 +1,2408 @@
+Uri: https://cartzilla.createx.studio/
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\index.htm
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/404-electronics.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\404-electronics.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/404-fashion.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\404-fashion.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/404-furniture.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\404-furniture.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/404-grocery.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\404-grocery.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/about-v1.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\about-v1.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/about-v2.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\about-v2.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/account-addresses.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\account-addresses.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/account-info.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\account-info.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/account-notifications.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\account-notifications.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/account-orders.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\account-orders.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/account-password-recovery.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\account-password-recovery.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/account-payment.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\account-payment.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/account-reviews.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\account-reviews.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/account-signin.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\account-signin.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/account-signup.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\account-signup.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/account-wishlist.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\account-wishlist.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/assets/app-icons/icon-180x180.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\app-icons\icon-180x180.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/app-icons/icon-32x32.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\app-icons\icon-32x32.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/css/theme.min.css
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\css\theme.min.css
+Content Type: text/css
+
+Uri: https://cartzilla.createx.studio/assets/css/theme.rtl.min.css
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\css\theme.rtl.min.css
+Content Type: text/css
+
+Uri: https://cartzilla.createx.studio/assets/fonts/inter-variable-latin.woff2
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\fonts\inter-variable-latin.woff2
+Content Type: font/woff2
+
+Uri: https://cartzilla.createx.studio/assets/icons/cartzilla-icons.min.css
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\icons\cartzilla-icons.min.css
+Content Type: text/css
+
+Uri: https://cartzilla.createx.studio/assets/icons/cartzilla-icons.woff2
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\icons\cartzilla-icons.woff2
+Content Type: font/woff2
+
+Uri: https://cartzilla.createx.studio/assets/img/404/furniture.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\404\furniture.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/404/grocery-bg-1.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\404\grocery-bg-1.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/404/grocery-bg-2.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\404\grocery-bg-2.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/404/grocery.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\404\grocery.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/about/v1/avatar.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\about\v1\avatar.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/about/v1/delivery.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\about\v1\delivery.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/about/v1/hero.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\about\v1\hero.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/about/v1/video-cover.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\about\v1\video-cover.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/about/v2/feature01.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\about\v2\feature01.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/about/v2/feature02.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\about\v2\feature02.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/about/v2/feature03.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\about\v2\feature03.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/about/v2/hero.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\about\v2\hero.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/account-cover.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\account-cover.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/blog/grid/v1/01.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\blog\grid\v1\01.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/blog/grid/v1/02.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\blog\grid\v1\02.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/blog/grid/v1/03.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\blog\grid\v1\03.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/blog/grid/v1/04.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\blog\grid\v1\04.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/blog/grid/v1/05.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\blog\grid\v1\05.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/blog/grid/v1/06.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\blog\grid\v1\06.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/blog/grid/v1/07.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\blog\grid\v1\07.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/blog/grid/v1/08.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\blog\grid\v1\08.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/blog/grid/v1/09.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\blog\grid\v1\09.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/blog/grid/v1/10.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\blog\grid\v1\10.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/blog/grid/v1/11.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\blog\grid\v1\11.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/blog/grid/v1/12.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\blog\grid\v1\12.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/blog/grid/v1/13.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\blog\grid\v1\13.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/blog/grid/v1/14.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\blog\grid\v1\14.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/blog/grid/v1/slider01.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\blog\grid\v1\slider01.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/blog/grid/v1/slider02.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\blog\grid\v1\slider02.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/blog/grid/v1/th01.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\blog\grid\v1\th01.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/blog/grid/v1/th02.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\blog\grid\v1\th02.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/blog/grid/v1/th03.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\blog\grid\v1\th03.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/blog/grid/v1/video01.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\blog\grid\v1\video01.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/blog/grid/v1/video02.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\blog\grid\v1\video02.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/blog/grid/v1/video03.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\blog\grid\v1\video03.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/blog/grid/v1/video04.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\blog\grid\v1\video04.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/blog/grid/v2/01.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\blog\grid\v2\01.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/blog/grid/v2/02.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\blog\grid\v2\02.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/blog/grid/v2/03.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\blog\grid\v2\03.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/blog/grid/v2/04.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\blog\grid\v2\04.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/blog/grid/v2/05.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\blog\grid\v2\05.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/blog/grid/v2/06.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\blog\grid\v2\06.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/blog/grid/v2/07.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\blog\grid\v2\07.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/blog/grid/v2/08.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\blog\grid\v2\08.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/blog/grid/v2/09.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\blog\grid\v2\09.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/blog/grid/v2/10.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\blog\grid\v2\10.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/blog/grid/v2/11.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\blog\grid\v2\11.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/blog/grid/v2/12.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\blog\grid\v2\12.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/blog/grid/v2/13.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\blog\grid\v2\13.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/blog/grid/v2/14.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\blog\grid\v2\14.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/blog/grid/v2/15.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\blog\grid\v2\15.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/blog/grid/v2/video01.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\blog\grid\v2\video01.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/blog/grid/v2/video02.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\blog\grid\v2\video02.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/blog/list/01.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\blog\list\01.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/blog/list/02.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\blog\list\02.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/blog/list/03.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\blog\list\03.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/blog/list/04.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\blog\list\04.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/blog/list/05.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\blog\list\05.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/blog/list/06.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\blog\list\06.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/blog/list/07.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\blog\list\07.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/blog/list/08.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\blog\list\08.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/blog/list/09.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\blog\list\09.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/blog/list/10.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\blog\list\10.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/blog/list/11.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\blog\list\11.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/blog/list/12.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\blog\list\12.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/blog/post/main.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\blog\post\main.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/blog/post/nav01.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\blog\post\nav01.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/blog/post/nav02.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\blog\post\nav02.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/blog/post/slide01.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\blog\post\slide01.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/blog/post/slide02.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\blog\post\slide02.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/blog/post/slide03.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\blog\post\slide03.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/contact/form-image.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\contact\form-image.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/contact/map.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\contact\map.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/contact/title-bg.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\contact\title-bg.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/docs/browserslistrc.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\docs\browserslistrc.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/docs/cache.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\docs\cache.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/docs/card/img-hover.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\docs\card\img-hover.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/docs/card/img.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\docs\card\img.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/docs/image-comparison-slider/after.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\docs\image-comparison-slider\after.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/docs/image-comparison-slider/before.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\docs\image-comparison-slider\before.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/docs/local-storage.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\docs\local-storage.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/docs/vercel.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\docs\vercel.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/flags/de.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\flags\de.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/flags/en-uk.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\flags\en-uk.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/flags/en-us.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\flags\en-us.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/flags/fr.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\flags\fr.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/flags/it.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\flags\it.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/help/article01.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\help\article01.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/help/article02.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\help\article02.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/help/article03.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\help\article03.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/help/article04.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\help\article04.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/help/hero-dark.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\help\hero-dark.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/help/hero-light.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\help\hero-light.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/help/single.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\help\single.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/home/electronics/banner/background.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\electronics\banner\background.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/home/electronics/banner/camera.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\electronics\banner\camera.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/home/electronics/banner/laptop.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\electronics\banner\laptop.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/home/electronics/hero-slider/01.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\electronics\hero-slider\01.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/home/electronics/hero-slider/02.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\electronics\hero-slider\02.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/home/electronics/hero-slider/03.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\electronics\hero-slider\03.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/home/electronics/vlog/01.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\electronics\vlog\01.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/home/electronics/vlog/02.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\electronics\vlog\02.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/home/electronics/vlog/03.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\electronics\vlog\03.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/home/fashion/v1/collection/01.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\fashion\v1\collection\01.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/home/fashion/v1/collection/02.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\fashion\v1\collection\02.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/home/fashion/v1/hero-slider/01.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\fashion\v1\hero-slider\01.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/home/fashion/v1/hero-slider/02.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\fashion\v1\hero-slider\02.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/home/fashion/v1/hero-slider/03.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\fashion\v1\hero-slider\03.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/home/fashion/v1/popular/01.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\fashion\v1\popular\01.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/home/fashion/v1/popular/02.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\fashion\v1\popular\02.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/home/fashion/v1/reviews/01.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\fashion\v1\reviews\01.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/home/fashion/v1/reviews/02.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\fashion\v1\reviews\02.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/home/fashion/v1/reviews/03.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\fashion\v1\reviews\03.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/home/fashion/v1/reviews/04.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\fashion\v1\reviews\04.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/home/fashion/v1/reviews/05.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\fashion\v1\reviews\05.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/home/fashion/v2/brands/adidas-dark.svg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\fashion\v2\brands\adidas-dark.svg
+Content Type: image/svg+xml
+
+Uri: https://cartzilla.createx.studio/assets/img/home/fashion/v2/brands/adidas-light.svg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\fashion\v2\brands\adidas-light.svg
+Content Type: image/svg+xml
+
+Uri: https://cartzilla.createx.studio/assets/img/home/fashion/v2/brands/brooks-dark.svg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\fashion\v2\brands\brooks-dark.svg
+Content Type: image/svg+xml
+
+Uri: https://cartzilla.createx.studio/assets/img/home/fashion/v2/brands/brooks-light.svg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\fashion\v2\brands\brooks-light.svg
+Content Type: image/svg+xml
+
+Uri: https://cartzilla.createx.studio/assets/img/home/fashion/v2/brands/dior-dark.svg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\fashion\v2\brands\dior-dark.svg
+Content Type: image/svg+xml
+
+Uri: https://cartzilla.createx.studio/assets/img/home/fashion/v2/brands/dior-light.svg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\fashion\v2\brands\dior-light.svg
+Content Type: image/svg+xml
+
+Uri: https://cartzilla.createx.studio/assets/img/home/fashion/v2/brands/fila-dark.svg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\fashion\v2\brands\fila-dark.svg
+Content Type: image/svg+xml
+
+Uri: https://cartzilla.createx.studio/assets/img/home/fashion/v2/brands/fila-light.svg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\fashion\v2\brands\fila-light.svg
+Content Type: image/svg+xml
+
+Uri: https://cartzilla.createx.studio/assets/img/home/fashion/v2/brands/hermes-dark.svg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\fashion\v2\brands\hermes-dark.svg
+Content Type: image/svg+xml
+
+Uri: https://cartzilla.createx.studio/assets/img/home/fashion/v2/brands/hermes-light.svg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\fashion\v2\brands\hermes-light.svg
+Content Type: image/svg+xml
+
+Uri: https://cartzilla.createx.studio/assets/img/home/fashion/v2/brands/hm-dark.svg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\fashion\v2\brands\hm-dark.svg
+Content Type: image/svg+xml
+
+Uri: https://cartzilla.createx.studio/assets/img/home/fashion/v2/brands/hm-light.svg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\fashion\v2\brands\hm-light.svg
+Content Type: image/svg+xml
+
+Uri: https://cartzilla.createx.studio/assets/img/home/fashion/v2/brands/newbalance-dark.svg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\fashion\v2\brands\newbalance-dark.svg
+Content Type: image/svg+xml
+
+Uri: https://cartzilla.createx.studio/assets/img/home/fashion/v2/brands/newbalance-light.svg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\fashion\v2\brands\newbalance-light.svg
+Content Type: image/svg+xml
+
+Uri: https://cartzilla.createx.studio/assets/img/home/fashion/v2/brands/puma-dark.svg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\fashion\v2\brands\puma-dark.svg
+Content Type: image/svg+xml
+
+Uri: https://cartzilla.createx.studio/assets/img/home/fashion/v2/brands/puma-light.svg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\fashion\v2\brands\puma-light.svg
+Content Type: image/svg+xml
+
+Uri: https://cartzilla.createx.studio/assets/img/home/fashion/v2/brands/zara-dark.svg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\fashion\v2\brands\zara-dark.svg
+Content Type: image/svg+xml
+
+Uri: https://cartzilla.createx.studio/assets/img/home/fashion/v2/brands/zara-light.svg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\fashion\v2\brands\zara-light.svg
+Content Type: image/svg+xml
+
+Uri: https://cartzilla.createx.studio/assets/img/home/fashion/v2/categories/01.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\fashion\v2\categories\01.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/home/fashion/v2/categories/02.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\fashion\v2\categories\02.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/home/fashion/v2/categories/03.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\fashion\v2\categories\03.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/home/fashion/v2/hero/image.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\fashion\v2\hero\image.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/home/fashion/v2/offers-slider/preview01.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\fashion\v2\offers-slider\preview01.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/home/fashion/v2/offers-slider/preview02.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\fashion\v2\offers-slider\preview02.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/home/fashion/v2/offers-slider/product01.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\fashion\v2\offers-slider\product01.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/home/fashion/v2/offers-slider/product02.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\fashion\v2\offers-slider\product02.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/home/furniture/categories/01.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\furniture\categories\01.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/home/furniture/categories/02.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\furniture\categories\02.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/home/furniture/categories/03.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\furniture\categories\03.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/home/furniture/categories/04.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\furniture\categories\04.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/home/furniture/categories/05.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\furniture\categories\05.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/home/furniture/categories/06.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\furniture\categories\06.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/home/furniture/featured-product-thumbnail.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\furniture\featured-product-thumbnail.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/home/furniture/featured-product.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\furniture\featured-product.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/home/furniture/gallery/01.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\furniture\gallery\01.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/home/furniture/gallery/02.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\furniture\gallery\02.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/home/furniture/gallery/03.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\furniture\gallery\03.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/home/furniture/gallery/04.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\furniture\gallery\04.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/home/furniture/hero-slider/01.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\furniture\hero-slider\01.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/home/furniture/hero-slider/02.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\furniture\hero-slider\02.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/home/furniture/hero-slider/03.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\furniture\hero-slider\03.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/home/furniture/hero-slider/04.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\furniture\hero-slider\04.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/home/furniture/hero-slider/th01.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\furniture\hero-slider\th01.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/home/furniture/hero-slider/th02.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\furniture\hero-slider\th02.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/home/furniture/hero-slider/th03.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\furniture\hero-slider\th03.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/home/furniture/hero-slider/th04.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\furniture\hero-slider\th04.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/home/grocery/banner01.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\grocery\banner01.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/home/grocery/banner02.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\grocery\banner02.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/home/grocery/featured/01.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\grocery\featured\01.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/home/grocery/featured/02.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\grocery\featured\02.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/home/grocery/featured/03.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\grocery\featured\03.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/home/grocery/hero-slider/01.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\grocery\hero-slider\01.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/home/grocery/hero-slider/02.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\grocery\hero-slider\02.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/home/grocery/hero-slider/03.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\grocery\hero-slider\03.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/home/grocery/recipes/01.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\grocery\recipes\01.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/home/grocery/recipes/02.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\grocery\recipes\02.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/home/grocery/recipes/03.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\grocery\recipes\03.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/home/grocery/recipes/book-cover.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\home\grocery\recipes\book-cover.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/instagram/01.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\instagram\01.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/instagram/02.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\instagram\02.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/instagram/03.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\instagram\03.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/instagram/04.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\instagram\04.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/instagram/05.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\instagram\05.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/intro/customizer/borders-dark.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\intro\customizer\borders-dark.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/intro/customizer/borders-light.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\intro\customizer\borders-light.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/intro/customizer/colors-dark.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\intro\customizer\colors-dark.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/intro/customizer/colors-light.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\intro\customizer\colors-light.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/intro/customizer/typography-dark.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\intro\customizer\typography-dark.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/intro/customizer/typography-light.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\intro\customizer\typography-light.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/intro/dark-mode.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\intro\dark-mode.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/intro/demos/electronics-dark.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\intro\demos\electronics-dark.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/intro/demos/electronics-light.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\intro\demos\electronics-light.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/intro/demos/fashion-1-dark.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\intro\demos\fashion-1-dark.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/intro/demos/fashion-1-light.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\intro\demos\fashion-1-light.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/intro/demos/fashion-2-dark.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\intro\demos\fashion-2-dark.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/intro/demos/fashion-2-light.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\intro\demos\fashion-2-light.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/intro/demos/furniture-dark.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\intro\demos\furniture-dark.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/intro/demos/furniture-light.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\intro\demos\furniture-light.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/intro/demos/grocery-dark.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\intro\demos\grocery-dark.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/intro/demos/grocery-light.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\intro\demos\grocery-light.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/intro/features/bootstrap.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\intro\features\bootstrap.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/intro/features/figma.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\intro\features\figma.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/intro/features/google-fonts.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\intro\features\google-fonts.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/intro/features/html5.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\intro\features\html5.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/intro/features/js.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\intro\features\js.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/intro/features/npm.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\intro\features\npm.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/intro/features/sass.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\intro\features\sass.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/intro/features/touch.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\intro\features\touch.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/intro/features/vector.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\intro\features\vector.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/intro/light-mode.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\intro\light-mode.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/intro/mobile-dark.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\intro\mobile-dark.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/intro/mobile-light.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\intro\mobile-light.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/intro/pages-dark.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\intro\pages-dark.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/intro/pages-light.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\intro\pages-light.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/intro/qr-dark.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\intro\qr-dark.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/intro/qr-light.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\intro\qr-light.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/mega-menu/demo-preview/electronics-dark.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\mega-menu\demo-preview\electronics-dark.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/mega-menu/demo-preview/electronics-light.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\mega-menu\demo-preview\electronics-light.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/mega-menu/demo-preview/fashion-1-dark.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\mega-menu\demo-preview\fashion-1-dark.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/mega-menu/demo-preview/fashion-1-light.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\mega-menu\demo-preview\fashion-1-light.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/mega-menu/demo-preview/fashion-2-dark.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\mega-menu\demo-preview\fashion-2-dark.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/mega-menu/demo-preview/fashion-2-light.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\mega-menu\demo-preview\fashion-2-light.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/mega-menu/demo-preview/furniture-dark.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\mega-menu\demo-preview\furniture-dark.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/mega-menu/demo-preview/furniture-light.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\mega-menu\demo-preview\furniture-light.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/mega-menu/demo-preview/grocery-dark.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\mega-menu\demo-preview\grocery-dark.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/mega-menu/demo-preview/grocery-light.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\mega-menu\demo-preview\grocery-light.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/mega-menu/electronics/01.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\mega-menu\electronics\01.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/mega-menu/electronics/02.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\mega-menu\electronics\02.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/mega-menu/electronics/03.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\mega-menu\electronics\03.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/mega-menu/electronics/04.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\mega-menu\electronics\04.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/mega-menu/electronics/05.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\mega-menu\electronics\05.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/mega-menu/electronics/06.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\mega-menu\electronics\06.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/mega-menu/electronics/07.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\mega-menu\electronics\07.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/mega-menu/electronics/08.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\mega-menu\electronics\08.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/mega-menu/electronics/09.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\mega-menu\electronics\09.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/mega-menu/electronics/10.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\mega-menu\electronics\10.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/mega-menu/electronics/11.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\mega-menu\electronics\11.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/mega-menu/electronics/12.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\mega-menu\electronics\12.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/mega-menu/fashion/01.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\mega-menu\fashion\01.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/mega-menu/fashion/02.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\mega-menu\fashion\02.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/mega-menu/fashion/03.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\mega-menu\fashion\03.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/mega-menu/grocery/th01.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\mega-menu\grocery\th01.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/mega-menu/grocery/th02.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\mega-menu\grocery\th02.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/mega-menu/grocery/th03.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\mega-menu\grocery\th03.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/mega-menu/grocery/th04.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\mega-menu\grocery\th04.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/mega-menu/grocery/th05.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\mega-menu\grocery\th05.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/mega-menu/grocery/th06.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\mega-menu\grocery\th06.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/payment-methods/amex.svg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\payment-methods\amex.svg
+Content Type: image/svg+xml
+
+Uri: https://cartzilla.createx.studio/assets/img/payment-methods/apple-pay-dark-mode.svg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\payment-methods\apple-pay-dark-mode.svg
+Content Type: image/svg+xml
+
+Uri: https://cartzilla.createx.studio/assets/img/payment-methods/apple-pay-light-mode.svg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\payment-methods\apple-pay-light-mode.svg
+Content Type: image/svg+xml
+
+Uri: https://cartzilla.createx.studio/assets/img/payment-methods/google-icon.svg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\payment-methods\google-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://cartzilla.createx.studio/assets/img/payment-methods/google-pay-dark-mode.svg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\payment-methods\google-pay-dark-mode.svg
+Content Type: image/svg+xml
+
+Uri: https://cartzilla.createx.studio/assets/img/payment-methods/google-pay-light-mode.svg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\payment-methods\google-pay-light-mode.svg
+Content Type: image/svg+xml
+
+Uri: https://cartzilla.createx.studio/assets/img/payment-methods/maestro.svg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\payment-methods\maestro.svg
+Content Type: image/svg+xml
+
+Uri: https://cartzilla.createx.studio/assets/img/payment-methods/mastercard.svg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\payment-methods\mastercard.svg
+Content Type: image/svg+xml
+
+Uri: https://cartzilla.createx.studio/assets/img/payment-methods/paypal-dark-mode.svg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\payment-methods\paypal-dark-mode.svg
+Content Type: image/svg+xml
+
+Uri: https://cartzilla.createx.studio/assets/img/payment-methods/paypal-icon.svg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\payment-methods\paypal-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://cartzilla.createx.studio/assets/img/payment-methods/paypal-light-mode.svg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\payment-methods\paypal-light-mode.svg
+Content Type: image/svg+xml
+
+Uri: https://cartzilla.createx.studio/assets/img/payment-methods/visa-dark-mode.svg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\payment-methods\visa-dark-mode.svg
+Content Type: image/svg+xml
+
+Uri: https://cartzilla.createx.studio/assets/img/payment-methods/visa-light-mode.svg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\payment-methods\visa-light-mode.svg
+Content Type: image/svg+xml
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/01.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\01.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/02.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\02.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/03.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\03.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/04.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\04.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/05.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\05.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/06.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\06.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/07.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\07.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/08.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\08.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/09.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\09.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/10.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\10.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/11.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\11.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/12.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\12.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/13.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\13.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/14.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\14.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/15.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\15.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/banners/background.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\banners\background.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/banners/ipad.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\banners\ipad.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/banners/iphone-1.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\banners\iphone-1.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/banners/iphone-2.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\banners\iphone-2.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/banners/laptop.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\banners\laptop.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/brands/apple-dark-mode.svg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\brands\apple-dark-mode.svg
+Content Type: image/svg+xml
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/brands/apple-light-mode.svg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\brands\apple-light-mode.svg
+Content Type: image/svg+xml
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/brands/canon-dark-mode.svg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\brands\canon-dark-mode.svg
+Content Type: image/svg+xml
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/brands/canon-light-mode.svg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\brands\canon-light-mode.svg
+Content Type: image/svg+xml
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/brands/motorola-dark-mode.svg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\brands\motorola-dark-mode.svg
+Content Type: image/svg+xml
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/brands/motorola-light-mode.svg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\brands\motorola-light-mode.svg
+Content Type: image/svg+xml
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/brands/samsung-dark-mode.svg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\brands\samsung-dark-mode.svg
+Content Type: image/svg+xml
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/brands/samsung-light-mode.svg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\brands\samsung-light-mode.svg
+Content Type: image/svg+xml
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/brands/sony-dark-mode.svg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\brands\sony-dark-mode.svg
+Content Type: image/svg+xml
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/brands/sony-light-mode.svg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\brands\sony-light-mode.svg
+Content Type: image/svg+xml
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/brands/xiaomi-dark-mode.svg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\brands\xiaomi-dark-mode.svg
+Content Type: image/svg+xml
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/brands/xiaomi-light-mode.svg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\brands\xiaomi-light-mode.svg
+Content Type: image/svg+xml
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/categories/01.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\categories\01.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/categories/02.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\categories\02.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/categories/03.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\categories\03.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/categories/04.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\categories\04.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/categories/05.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\categories\05.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/categories/06.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\categories\06.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/categories/07.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\categories\07.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/categories/08.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\categories\08.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/product/gallery/01.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\product\gallery\01.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/product/gallery/02.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\product\gallery\02.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/product/gallery/03.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\product\gallery\03.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/product/gallery/04.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\product\gallery\04.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/product/gallery/05.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\product\gallery\05.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/product/gallery/06.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\product\gallery\06.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/product/gallery/07.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\product\gallery\07.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/product/gallery/th01.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\product\gallery\th01.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/product/gallery/th02.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\product\gallery\th02.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/product/gallery/th03.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\product\gallery\th03.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/product/gallery/th04.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\product\gallery\th04.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/product/gallery/th05.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\product\gallery\th05.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/product/gallery/th06.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\product\gallery\th06.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/product/gallery/th07.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\product\gallery\th07.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/product/reviews/01.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\product\reviews\01.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/product/reviews/02.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\product\reviews\02.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/product/reviews/03.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\product\reviews\03.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/thumbs/01.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\thumbs\01.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/thumbs/02.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\thumbs\02.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/thumbs/03.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\thumbs\03.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/thumbs/04.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\thumbs\04.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/thumbs/05.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\thumbs\05.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/thumbs/06.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\thumbs\06.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/thumbs/07.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\thumbs\07.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/thumbs/08.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\thumbs\08.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/thumbs/09.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\thumbs\09.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/thumbs/10.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\thumbs\10.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/thumbs/11.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\thumbs\11.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/thumbs/12.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\thumbs\12.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/thumbs/13.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\thumbs\13.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/thumbs/14.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\thumbs\14.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/thumbs/15.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\thumbs\15.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/thumbs/16.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\thumbs\16.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/thumbs/17.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\thumbs\17.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/thumbs/18.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\thumbs\18.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/thumbs/19.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\thumbs\19.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/thumbs/20.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\thumbs\20.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/thumbs/21.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\thumbs\21.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/electronics/thumbs/22.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\electronics\thumbs\22.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/fashion/01.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\fashion\01.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/fashion/02.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\fashion\02.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/fashion/03.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\fashion\03.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/fashion/04.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\fashion\04.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/fashion/05.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\fashion\05.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/fashion/06.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\fashion\06.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/fashion/07.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\fashion\07.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/fashion/08.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\fashion\08.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/fashion/09.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\fashion\09.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/fashion/10.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\fashion\10.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/fashion/11.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\fashion\11.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/fashion/12.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\fashion\12.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/fashion/banner01.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\fashion\banner01.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/fashion/banner02.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\fashion\banner02.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/fashion/banner03.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\fashion\banner03.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/fashion/product/01.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\fashion\product\01.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/fashion/product/02.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\fashion\product\02.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/fashion/product/03.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\fashion\product\03.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/fashion/product/04.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\fashion\product\04.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/fashion/product/05.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\fashion\product\05.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/fashion/product/colors/color01.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\fashion\product\colors\color01.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/fashion/product/colors/color02.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\fashion\product\colors\color02.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/fashion/product/colors/color03.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\fashion\product\colors\color03.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/fashion/product/thumb.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\fashion\product\thumb.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/fashion/thumbs/01.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\fashion\thumbs\01.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/fashion/thumbs/02.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\fashion\thumbs\02.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/fashion/thumbs/03.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\fashion\thumbs\03.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/fashion/thumbs/04.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\fashion\thumbs\04.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/fashion/thumbs/05.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\fashion\thumbs\05.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/fashion/thumbs/06.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\fashion\thumbs\06.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/fashion/thumbs/07.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\fashion\thumbs\07.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/fashion/thumbs/08.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\fashion\thumbs\08.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/fashion/thumbs/09.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\fashion\thumbs\09.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/furniture/01-hover.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\furniture\01-hover.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/furniture/01.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\furniture\01.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/furniture/02-hover.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\furniture\02-hover.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/furniture/02.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\furniture\02.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/furniture/03-hover.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\furniture\03-hover.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/furniture/03.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\furniture\03.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/furniture/04-hover.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\furniture\04-hover.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/furniture/04.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\furniture\04.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/furniture/05-hover.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\furniture\05-hover.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/furniture/05.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\furniture\05.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/furniture/06-hover.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\furniture\06-hover.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/furniture/06.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\furniture\06.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/furniture/07-hover.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\furniture\07-hover.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/furniture/07.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\furniture\07.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/furniture/08-hover.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\furniture\08-hover.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/furniture/08.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\furniture\08.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/furniture/09-hover.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\furniture\09-hover.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/furniture/09.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\furniture\09.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/furniture/10-hover.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\furniture\10-hover.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/furniture/10.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\furniture\10.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/furniture/11-hover.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\furniture\11-hover.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/furniture/11.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\furniture\11.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/furniture/12-hover.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\furniture\12-hover.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/furniture/12.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\furniture\12.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/furniture/13-hover.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\furniture\13-hover.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/furniture/13.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\furniture\13.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/furniture/14-hover.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\furniture\14-hover.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/furniture/14.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\furniture\14.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/furniture/15-hover.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\furniture\15-hover.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/furniture/15.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\furniture\15.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/furniture/16-hover.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\furniture\16-hover.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/furniture/16.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\furniture\16.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/furniture/product/01.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\furniture\product\01.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/furniture/product/02.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\furniture\product\02.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/furniture/product/03.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\furniture\product\03.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/furniture/product/04.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\furniture\product\04.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/furniture/product/05.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\furniture\product\05.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/furniture/product/06.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\furniture\product\06.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/furniture/product/colors/color01.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\furniture\product\colors\color01.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/furniture/product/colors/color02.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\furniture\product\colors\color02.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/furniture/product/colors/color03.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\furniture\product\colors\color03.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/furniture/product/thumb.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\furniture\product\thumb.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/grocery/01.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\grocery\01.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/grocery/02.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\grocery\02.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/grocery/03.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\grocery\03.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/grocery/04.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\grocery\04.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/grocery/05.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\grocery\05.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/grocery/06.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\grocery\06.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/grocery/07.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\grocery\07.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/grocery/08.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\grocery\08.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/grocery/09.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\grocery\09.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/grocery/10.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\grocery\10.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/grocery/11.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\grocery\11.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/grocery/12.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\grocery\12.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/grocery/13.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\grocery\13.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/grocery/14.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\grocery\14.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/grocery/15.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\grocery\15.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/grocery/16.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\grocery\16.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/grocery/banner.jpg
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\grocery\banner.jpg
+Content Type: image/jpeg
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/grocery/categories/01.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\grocery\categories\01.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/grocery/categories/02.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\grocery\categories\02.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/grocery/categories/03.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\grocery\categories\03.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/grocery/categories/04.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\grocery\categories\04.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/grocery/categories/05.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\grocery\categories\05.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/grocery/categories/06.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\grocery\categories\06.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/grocery/categories/07.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\grocery\categories\07.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/grocery/categories/08.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\grocery\categories\08.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/grocery/categories/09.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\grocery\categories\09.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/grocery/categories/10.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\grocery\categories\10.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/grocery/categories/11.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\grocery\categories\11.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/grocery/product/01.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\grocery\product\01.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/grocery/product/02.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\grocery\product\02.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/grocery/product/03.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\grocery\product\03.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/grocery/product/th01.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\grocery\product\th01.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/grocery/product/th02.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\grocery\product\th02.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/grocery/product/th03.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\grocery\product\th03.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/grocery/thankyou-bg-1.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\grocery\thankyou-bg-1.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/grocery/thankyou-bg-2.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\grocery\thankyou-bg-2.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/grocery/thumbs/01.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\grocery\thumbs\01.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/grocery/thumbs/02.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\grocery\thumbs\02.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/grocery/thumbs/03.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\grocery\thumbs\03.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/img/shop/grocery/thumbs/04.png
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\img\shop\grocery\thumbs\04.png
+Content Type: image/png
+
+Uri: https://cartzilla.createx.studio/assets/js/customizer.min.js
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\js\customizer.min.js
+Content Type: application/javascript
+
+Uri: https://cartzilla.createx.studio/assets/js/theme-switcher.js
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\js\theme-switcher.js
+Content Type: application/javascript
+
+Uri: https://cartzilla.createx.studio/assets/js/theme.min.js
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\js\theme.min.js
+Content Type: application/javascript
+
+Uri: https://cartzilla.createx.studio/assets/vendor/choices.js/choices.min.css
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\vendor\choices.js\choices.min.css
+Content Type: text/css
+
+Uri: https://cartzilla.createx.studio/assets/vendor/choices.js/choices.min.js
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\vendor\choices.js\choices.min.js
+Content Type: application/javascript
+
+Uri: https://cartzilla.createx.studio/assets/vendor/cleave.js/cleave.min.js
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\vendor\cleave.js\cleave.min.js
+Content Type: application/javascript
+
+Uri: https://cartzilla.createx.studio/assets/vendor/drift-zoom/drift-basic.min.css
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\vendor\drift-zoom\drift-basic.min.css
+Content Type: text/css
+
+Uri: https://cartzilla.createx.studio/assets/vendor/drift-zoom/Drift.min.js
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\vendor\drift-zoom\Drift.min.js
+Content Type: application/javascript
+
+Uri: https://cartzilla.createx.studio/assets/vendor/flatpickr/flatpickr.min.css
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\vendor\flatpickr\flatpickr.min.css
+Content Type: text/css
+
+Uri: https://cartzilla.createx.studio/assets/vendor/flatpickr/flatpickr.min.js
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\vendor\flatpickr\flatpickr.min.js
+Content Type: application/javascript
+
+Uri: https://cartzilla.createx.studio/assets/vendor/flatpickr/rangePlugin.js
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\vendor\flatpickr\rangePlugin.js
+Content Type: application/javascript
+
+Uri: https://cartzilla.createx.studio/assets/vendor/glightbox/glightbox.min.css
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\vendor\glightbox\glightbox.min.css
+Content Type: text/css
+
+Uri: https://cartzilla.createx.studio/assets/vendor/glightbox/glightbox.min.js
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\vendor\glightbox\glightbox.min.js
+Content Type: application/javascript
+
+Uri: https://cartzilla.createx.studio/assets/vendor/img-comparison-slider/index.js
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\vendor\img-comparison-slider\index.js
+Content Type: application/javascript
+
+Uri: https://cartzilla.createx.studio/assets/vendor/img-comparison-slider/styles.css
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\vendor\img-comparison-slider\styles.css
+Content Type: text/css
+
+Uri: https://cartzilla.createx.studio/assets/vendor/list.js/list.min.js
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\vendor\list.js\list.min.js
+Content Type: application/javascript
+
+Uri: https://cartzilla.createx.studio/assets/vendor/nouislider/nouislider.min.css
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\vendor\nouislider\nouislider.min.css
+Content Type: text/css
+
+Uri: https://cartzilla.createx.studio/assets/vendor/nouislider/nouislider.min.js
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\vendor\nouislider\nouislider.min.js
+Content Type: application/javascript
+
+Uri: https://cartzilla.createx.studio/assets/vendor/simplebar/simplebar.min.css
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\vendor\simplebar\simplebar.min.css
+Content Type: text/css
+
+Uri: https://cartzilla.createx.studio/assets/vendor/simplebar/simplebar.min.js
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\vendor\simplebar\simplebar.min.js
+Content Type: application/javascript
+
+Uri: https://cartzilla.createx.studio/assets/vendor/swiper/swiper-bundle.min.css
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\vendor\swiper\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://cartzilla.createx.studio/assets/vendor/swiper/swiper-bundle.min.js
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\vendor\swiper\swiper-bundle.min.js
+Content Type: application/javascript
+
+Uri: https://cartzilla.createx.studio/assets/vendor/timezz/timezz.js
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\assets\vendor\timezz\timezz.js
+Content Type: application/javascript
+
+Uri: https://cartzilla.createx.studio/blog-grid-v1.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\blog-grid-v1.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/blog-grid-v2.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\blog-grid-v2.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/blog-list.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\blog-list.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/blog-single-v1.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\blog-single-v1.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/blog-single-v2.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\blog-single-v2.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/checkout-v1-cart.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\checkout-v1-cart.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/checkout-v1-delivery-1.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\checkout-v1-delivery-1.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/checkout-v1-delivery-2.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\checkout-v1-delivery-2.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/checkout-v1-payment.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\checkout-v1-payment.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/checkout-v1-shipping.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\checkout-v1-shipping.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/checkout-v1-thankyou.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\checkout-v1-thankyou.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/checkout-v2-cart.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\checkout-v2-cart.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/checkout-v2-delivery.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\checkout-v2-delivery.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/checkout-v2-pickup.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\checkout-v2-pickup.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/checkout-v2-thankyou.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\checkout-v2-thankyou.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/contact-v1.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\contact-v1.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/contact-v2.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\contact-v2.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/contact-v3.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\contact-v3.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/docs/accordion.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\docs\accordion.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/docs/alerts.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\docs\alerts.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/docs/badges.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\docs\badges.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/docs/blog-components.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\docs\blog-components.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/docs/breadcrumb.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\docs\breadcrumb.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/docs/browser-support.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\docs\browser-support.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/docs/button-group.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\docs\button-group.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/docs/buttons.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\docs\buttons.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/docs/card.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\docs\card.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/docs/carousel.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\docs\carousel.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/docs/changelog.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\docs\changelog.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/docs/code.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\docs\code.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/docs/collapse.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\docs\collapse.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/docs/color-modes.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\docs\color-modes.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/docs/colors.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\docs\colors.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/docs/configuration.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\docs\configuration.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/docs/countdown.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\docs\countdown.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/docs/credits.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\docs\credits.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/docs/css-variables.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\docs\css-variables.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/docs/date-picker.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\docs\date-picker.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/docs/deployment.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\docs\deployment.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/docs/dropdowns.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\docs\dropdowns.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/docs/forms.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\docs\forms.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/docs/hotspots.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\docs\hotspots.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/docs/icon-font.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\docs\icon-font.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/docs/icons.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\docs\icons.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/docs/image-comparison-slider.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\docs\image-comparison-slider.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/docs/image-zoom.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\docs\image-zoom.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/docs/images.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\docs\images.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/docs/input-formatter.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\docs\input-formatter.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/docs/input-group.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\docs\input-group.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/docs/installation.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\docs\installation.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/docs/lightbox.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\docs\lightbox.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/docs/list-group.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\docs\list-group.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/docs/modal.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\docs\modal.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/docs/nav-links.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\docs\nav-links.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/docs/navbar-offcanvas.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\docs\navbar-offcanvas.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/docs/navbar.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\docs\navbar.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/docs/npm-scripts.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\docs\npm-scripts.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/docs/offcanvas.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\docs\offcanvas.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/docs/options.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\docs\options.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/docs/pagination.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\docs\pagination.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/docs/performance.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\docs\performance.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/docs/pills.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\docs\pills.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/docs/placeholders.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\docs\placeholders.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/docs/popovers.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\docs\popovers.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/docs/product-cards.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\docs\product-cards.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/docs/progress.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\docs\progress.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/docs/pwa.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\docs\pwa.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/docs/reviews.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\docs\reviews.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/docs/rtl.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\docs\rtl.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/docs/scrollbar.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\docs\scrollbar.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/docs/scrollspy.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\docs\scrollspy.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/docs/select-box.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\docs\select-box.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/docs/shop-categories.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\docs\shop-categories.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/docs/shop-filters.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\docs\shop-filters.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/docs/spinners.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\docs\spinners.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/docs/structure.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\docs\structure.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/docs/tables.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\docs\tables.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/docs/tabs.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\docs\tabs.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/docs/toasts.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\docs\toasts.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/docs/tooltips.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\docs\tooltips.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/docs/typography.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\docs\typography.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/docs/utilities.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\docs\utilities.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/docs/web-font.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\docs\web-font.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/help-single-article-v1.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\help-single-article-v1.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/help-single-article-v2.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\help-single-article-v2.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/help-topics-v1.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\help-topics-v1.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/help-topics-v2.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\help-topics-v2.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/home-electronics.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\home-electronics.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/home-fashion-v1.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\home-fashion-v1.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/home-fashion-v2.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\home-fashion-v2.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/home-furniture.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\home-furniture.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/home-grocery.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\home-grocery.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/index.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\index.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/manifest.json
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\manifest.json
+Content Type: application/json
+
+Uri: https://cartzilla.createx.studio/shop-catalog-electronics.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\shop-catalog-electronics.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/shop-catalog-fashion.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\shop-catalog-fashion.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/shop-catalog-furniture.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\shop-catalog-furniture.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/shop-catalog-grocery.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\shop-catalog-grocery.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/shop-categories-electronics.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\shop-categories-electronics.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/shop-product-details-electronics.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\shop-product-details-electronics.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/shop-product-fashion.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\shop-product-fashion.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/shop-product-furniture.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\shop-product-furniture.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/shop-product-general-electronics.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\shop-product-general-electronics.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/shop-product-grocery.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\shop-product-grocery.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/shop-product-reviews-electronics.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\shop-product-reviews-electronics.html
+Content Type: text/html
+
+Uri: https://cartzilla.createx.studio/terms-and-conditions.html
+File Name: C:\Downloaded Web Sites\cartzilla.createx.studio\terms-and-conditions.html
+Content Type: text/html
+
