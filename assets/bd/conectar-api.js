@@ -27,7 +27,7 @@ const fetchProducts = async () => {
 const displayProducts = (products) => {
     productList.innerHTML = ''; // Limpia la lista anterior
 
-    products.forEach((product) => {
+    products.forEach((product, index) => { // Agrega 'index' para usar el índice
         const colElement = document.createElement('div');
         colElement.classList.add('col');
 
@@ -39,7 +39,8 @@ const displayProducts = (products) => {
             aria-label="Add to Wishlist">
             <i class="ci-heart animate-target"></i>
           </button>
-          <a class="d-block p-2 p-lg-3" href="shop-product-grocery.html">
+          <a class="d-block p-2 p-lg-3" 
+             href="shop-product-grocery.html?productId=${index + 1}">  
             <div class="ratio" style="--cz-aspect-ratio: calc(160 / 191 * 100%)">
               <img src="${product.Foto1}" alt="Image"> 
             </div>
@@ -78,3 +79,9 @@ const displayProducts = (products) => {
 };
 
 fetchProducts();
+
+
+
+
+
+
