@@ -1625,8 +1625,8 @@
                 </div>
                 <div class="min-w-0 ps-3">
                   <a class="nav-link animate-underline stretched-link fs-base fw-semibold p-0 mb-1"
-                    href="shop-catalog-grocery.html">
-                    <span class="animate-target text-truncate">Panadería</span>
+                    href="shop-catalog-grocery.html" id="sessionStorageCategoriaDulcería">
+                    <span class="animate-target text-truncate">Dulcería</span>
                   </a>
                   <div class="fs-xs fw-normal text-body-secondary">230 productos</div>
                 </div>
@@ -1641,7 +1641,7 @@
                 </div>
                 <div class="min-w-0 ps-3">
                   <a class="nav-link animate-underline stretched-link fs-base fw-semibold p-0 mb-1"
-                    href="shop-catalog-grocery.html">
+                    href="shop-catalog-grocery.html" id="sessionStorageCategoriaVegetales">
                     <span class="animate-target text-truncate">Vegetales</span>
                   </a>
                   <div class="fs-xs fw-normal text-body-secondary">180 productos</div>
@@ -1657,7 +1657,7 @@
                 </div>
                 <div class="min-w-0 ps-3">
                   <a class="nav-link animate-underline stretched-link fs-base fw-semibold p-0 mb-1"
-                    href="shop-catalog-grocery.html">
+                    href="shop-catalog-grocery.html" id="sessionStorageCategoriaFrutas">
                     <span class="animate-target text-truncate">Frutas frescas</span>
                   </a>
                   <div class="fs-xs fw-normal text-body-secondary">205 productos</div>
@@ -1673,7 +1673,7 @@
                 </div>
                 <div class="min-w-0 ps-3">
                   <a class="nav-link animate-underline stretched-link fs-base fw-semibold p-0 mb-1"
-                    href="shop-catalog-grocery.html">
+                    href="shop-catalog-grocery.html" id="sessionStorageCategoriaPastas">
                     <span class="animate-target text-truncate">Pastas</span>
                   </a>
                   <div class="fs-xs fw-normal text-body-secondary">309 productos</div>
@@ -1689,7 +1689,7 @@
                 </div>
                 <div class="min-w-0 ps-3">
                   <a class="nav-link animate-underline stretched-link fs-base fw-semibold p-0 mb-1"
-                    href="shop-catalog-grocery.html">
+                    href="shop-catalog-grocery.html" id="sessionStorageCategoriaBebidas">
                     <span class="animate-target text-truncate">Bebidas</span>
                   </a>
                   <div class="fs-xs fw-normal text-body-secondary">372 productos</div>
@@ -1705,7 +1705,7 @@
                 </div>
                 <div class="min-w-0 ps-3">
                   <a class="nav-link animate-underline stretched-link fs-base fw-semibold p-0 mb-1"
-                    href="shop-catalog-grocery.html">
+                    href="shop-catalog-grocery.html" id="sessionStorageCategoriaCárnicos">
                     <span class="animate-target text-truncate">Productos Cárnicos</span>
                   </a>
                   <div class="fs-xs fw-normal text-body-secondary">124 products</div>
@@ -1721,7 +1721,7 @@
                 </div>
                 <div class="min-w-0 ps-3">
                   <a class="nav-link animate-underline stretched-link fs-base fw-semibold p-0 mb-1"
-                    href="shop-catalog-grocery.html">
+                    href="shop-catalog-grocery.html" id="sessionStorageCategoriaCondimentos">
                     <span class="animate-target text-truncate">Aceite, especias y otros</span>
                   </a>
                   <div class="fs-xs fw-normal text-body-secondary">219 products</div>
@@ -1737,7 +1737,7 @@
                 </div>
                 <div class="min-w-0 ps-3">
                   <a class="nav-link animate-underline stretched-link fs-base fw-semibold p-0 mb-1"
-                    href="shop-catalog-grocery.html">
+                    href="shop-catalog-grocery.html" id="sessionStorageCategoriaLácteos">
                     <span class="animate-target text-truncate">Productos lácteos</span>
                   </a>
                   <div class="fs-xs fw-normal text-body-secondary">146 productos</div>
@@ -1759,7 +1759,8 @@
           </div>
 
           <!-- Productos grid -->
-          <div class="row row-cols-2 row-cols-sm-3 row-cols-md-4 row-cols-lg-3 row-cols-xl-4 g-4" id="productListMVendidos">
+          <div class="row row-cols-2 row-cols-sm-3 row-cols-md-4 row-cols-lg-3 row-cols-xl-4 g-4"
+            id="productListMVendidos">
             <!-- Los productos se insertarán aquí por JavaScript -->
           </div>
         </div>
@@ -1855,7 +1856,7 @@
           }">
             <div class="swiper-wrapper" id="productListCarnicos">
 
-               
+
             </div>
 
             <!-- Slider pagination (Bullets) -->
@@ -2762,60 +2763,83 @@
     <!-- Taza de cambio -->
     <section class="container pb-5 py-3 py-sm-4">
       <div class="position-relative px-4 px-sm-5 px-xl-0 py-5">
-        <span class="position-absolute top-0 start-0 w-100 h-100 rounded-5 d-none-dark rtl-flip" style="background: linear-gradient(-90deg, #accbee 0%, #e7f0fd 100%)"></span>
-        <span class="position-absolute top-0 start-0 w-100 h-100 rounded-5 d-none d-block-dark rtl-flip" style="background: linear-gradient(-90deg, #1b273a 0%, #1f2632 100%)"></span>
+        <span class="position-absolute top-0 start-0 w-100 h-100 rounded-5 d-none-dark rtl-flip"
+          style="background: linear-gradient(-90deg, #accbee 0%, #e7f0fd 100%)"></span>
+        <span class="position-absolute top-0 start-0 w-100 h-100 rounded-5 d-none d-block-dark rtl-flip"
+          style="background: linear-gradient(-90deg, #1b273a 0%, #1f2632 100%)"></span>
         <div class="position-relative z-1">
           <h2 class="h2 text-center pt-md-2 pt-lg-3 pt-xl-4 mb-4">Valor del mercado de divisas en Cuba hoy</h2>
           <div class="position-relative mx-auto mb-4" style="max-width: 545px">
             <i class="ci-search position-absolute top-50 start-0 translate-middle-y text-body fs-lg ms-3"></i>
-            <input type="search" class="form-control form-control-lg form-icon-start" placeholder="Calcula cuánto dinero desea cambiar" aria-label="Search field">
+            <input type="search" class="form-control form-control-lg form-icon-start"
+              placeholder="Calcula cuánto dinero desea cambiar" aria-label="Search field">
           </div>
           <div class="row justify-content-center g-4 pt-2 pt-sm-3 pb-md-2 pb-lg-3 pb-xl-4">
             <div class="col-6 col-md-3 col-xl-2 text-center">
               <div class="position-relative d-inline-block">
-                <div class="position-relative d-inline-flex justify-content-center align-items-center text-body-emphasis" style="width: 48px; height: 48px">
-                  <span class="position-absolute top-0 start-0 w-100 h-100 bg-white bg-opacity-50 rounded-circle d-none-dark"></span>
-                  <span class="position-absolute top-0 start-0 w-100 h-100 bg-white bg-opacity-10 rounded-circle d-none d-block-dark"></span>
+                <div
+                  class="position-relative d-inline-flex justify-content-center align-items-center text-body-emphasis"
+                  style="width: 48px; height: 48px">
+                  <span
+                    class="position-absolute top-0 start-0 w-100 h-100 bg-white bg-opacity-50 rounded-circle d-none-dark"></span>
+                  <span
+                    class="position-absolute top-0 start-0 w-100 h-100 bg-white bg-opacity-10 rounded-circle d-none d-block-dark"></span>
                   <t class="position-relative z-1 fs-sm">EUR</t>
                 </div>
                 <h3 class="text-dark fs-xl fw-medium pt-1 mt-2 mb-0">
-                  <a class="hover-effect-underline stretched-link text-decoration-none" href="help-single-article-v1.html">380 <span>CUP</span></a>
+                  <a class="hover-effect-underline stretched-link text-decoration-none"
+                    href="help-single-article-v1.html">380 <span>CUP</span></a>
                 </h3>
               </div>
             </div>
             <div class="col-6 col-md-3 col-xl-2 text-center">
               <div class="position-relative d-inline-block">
-                <div class="position-relative d-inline-flex justify-content-center align-items-center text-body-emphasis" style="width: 48px; height: 48px">
-                  <span class="position-absolute top-0 start-0 w-100 h-100 bg-white bg-opacity-50 rounded-circle d-none-dark"></span>
-                  <span class="position-absolute top-0 start-0 w-100 h-100 bg-white bg-opacity-10 rounded-circle d-none d-block-dark"></span>
+                <div
+                  class="position-relative d-inline-flex justify-content-center align-items-center text-body-emphasis"
+                  style="width: 48px; height: 48px">
+                  <span
+                    class="position-absolute top-0 start-0 w-100 h-100 bg-white bg-opacity-50 rounded-circle d-none-dark"></span>
+                  <span
+                    class="position-absolute top-0 start-0 w-100 h-100 bg-white bg-opacity-10 rounded-circle d-none d-block-dark"></span>
                   <t class="position-relative z-1 fs-sm">USD</t>
                 </div>
                 <h3 class="text-dark fs-xl fw-medium pt-1 mt-2 mb-0">
-                  <a class="hover-effect-underline stretched-link text-decoration-none" href="help-single-article-v1.html">350 <span>CUP</span></a>
+                  <a class="hover-effect-underline stretched-link text-decoration-none"
+                    href="help-single-article-v1.html">350 <span>CUP</span></a>
                 </h3>
               </div>
             </div>
             <div class="col-6 col-md-3 col-xl-2 text-center">
               <div class="position-relative d-inline-block">
-                <div class="position-relative d-inline-flex justify-content-center align-items-center text-body-emphasis" style="width: 48px; height: 48px">
-                  <span class="position-absolute top-0 start-0 w-100 h-100 bg-white bg-opacity-50 rounded-circle d-none-dark"></span>
-                  <span class="position-absolute top-0 start-0 w-100 h-100 bg-white bg-opacity-10 rounded-circle d-none d-block-dark"></span>
+                <div
+                  class="position-relative d-inline-flex justify-content-center align-items-center text-body-emphasis"
+                  style="width: 48px; height: 48px">
+                  <span
+                    class="position-absolute top-0 start-0 w-100 h-100 bg-white bg-opacity-50 rounded-circle d-none-dark"></span>
+                  <span
+                    class="position-absolute top-0 start-0 w-100 h-100 bg-white bg-opacity-10 rounded-circle d-none d-block-dark"></span>
                   <t class="position-relative z-1 fs-sm">MLC</t>
                 </div>
                 <h3 class="text-dark fs-xl fw-medium pt-1 mt-2 mb-0">
-                  <a class="hover-effect-underline stretched-link text-decoration-none" href="help-single-article-v1.html">300 <span>CUP</span></a>
+                  <a class="hover-effect-underline stretched-link text-decoration-none"
+                    href="help-single-article-v1.html">300 <span>CUP</span></a>
                 </h3>
               </div>
             </div>
             <div class="col-6 col-md-3 col-xl-2 text-center">
               <div class="position-relative d-inline-block">
-                <div class="position-relative d-inline-flex justify-content-center align-items-center text-body-emphasis" style="width: 48px; height: 48px">
-                  <span class="position-absolute top-0 start-0 w-100 h-100 bg-white bg-opacity-50 rounded-circle d-none-dark"></span>
-                  <span class="position-absolute top-0 start-0 w-100 h-100 bg-white bg-opacity-10 rounded-circle d-none d-block-dark"></span>
+                <div
+                  class="position-relative d-inline-flex justify-content-center align-items-center text-body-emphasis"
+                  style="width: 48px; height: 48px">
+                  <span
+                    class="position-absolute top-0 start-0 w-100 h-100 bg-white bg-opacity-50 rounded-circle d-none-dark"></span>
+                  <span
+                    class="position-absolute top-0 start-0 w-100 h-100 bg-white bg-opacity-10 rounded-circle d-none d-block-dark"></span>
                   <t class="position-relative z-1 fs-sm">BTC</t>
                 </div>
                 <h3 class="text-dark fs-xl fw-medium pt-1 mt-2 mb-0">
-                  <a class="hover-effect-underline stretched-link text-decoration-none" href="help-single-article-v1.html">320 <span>CUP</span></a>
+                  <a class="hover-effect-underline stretched-link text-decoration-none"
+                    href="help-single-article-v1.html">320 <span>CUP</span></a>
                 </h3>
               </div>
             </div>
@@ -3260,6 +3284,32 @@
 
   </div>
 
+  <script>
+    document.getElementById('sessionStorageCategoriaDulcería').addEventListener('click', function () {
+      sessionStorage.setItem('Categoria', 'Dulcería');
+    });
+    document.getElementById('sessionStorageCategoriaVegetales').addEventListener('click', function () {
+      sessionStorage.setItem('Categoria', 'Vegetales');
+    });
+    document.getElementById('sessionStorageCategoriaFrutas').addEventListener('click', function () {
+      sessionStorage.setItem('Categoria', 'Frutas');
+    });
+    document.getElementById('sessionStorageCategoriaPastas').addEventListener('click', function () {
+      sessionStorage.setItem('Categoria', 'Pastas');
+    });
+    document.getElementById('sessionStorageCategoriaBebidas').addEventListener('click', function () {
+      sessionStorage.setItem('Categoria', 'Bebidas');
+    });
+    document.getElementById('sessionStorageCategoriaCárnicos').addEventListener('click', function () {
+      sessionStorage.setItem('Categoria', 'Cárnicos');
+    });
+    document.getElementById('sessionStorageCategoriaCondimentos').addEventListener('click', function () {
+      sessionStorage.setItem('Categoria', 'Condimentos');
+    });
+    document.getElementById('sessionStorageCategoriaLácteos').addEventListener('click', function () {
+      sessionStorage.setItem('Categoria', 'Lácteos');
+    });
+  </script>
 
   <!-- Vendor scripts -->
   <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
@@ -3268,7 +3318,7 @@
 
   <!-- Supabase scripts -->
   <script type="module" src="assets/bd/conectar-api.js"></script>
-  <script type="module" src="assets/bd/productos-mas-vendidos.js"></script>
+  <script type="module" src="assets/bd/productos-home.js"></script>
   <script type="module" src="assets/bd/indexedDB.js"></script>
   <script type="module" src="assets/bd/localStorange.js"></script>
 

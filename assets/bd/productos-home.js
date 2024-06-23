@@ -7,11 +7,13 @@ const supabase = createClient(
 );
 
 
-const productListMVendidos = document.getElementById('productListMVendidos');
 const productListEnOferta = document.getElementById('productListEnOferta');
 const productListCategoria = document.getElementById('productListCarnicos');
 
-// Lista de productos más vendidos
+// Suponiendo que 'productListMVendidos' es el elemento donde se mostrarán los productos
+const productListMVendidos = document.getElementById('productListMVendidos');
+
+// Función para obtener los productos más vendidos de la base de datos
 const fetchProducts = async () => {
     try {
         const { data, error } = await supabase
@@ -30,15 +32,16 @@ const fetchProducts = async () => {
     }
 };
 
+// Función para mostrar los productos en la página
 const displayProducts = (products) => {
     productListMVendidos.innerHTML = ''; // Limpia la lista anterior
 
-    products.forEach((product, index) => { // Agrega 'index' para usar el índice
+    products.forEach((product) => {
         const colElement = document.createElement('div');
         colElement.classList.add('col');
 
         colElement.innerHTML = `
-      <div class="card product-card h-100 bg-transparent border-0 shadow-none">
+      <div class="card product-card h-100 bg-transparent border-0 shadow-none" id="ProductoDinamicoId">
         <div class="position-relative z-2">
           <button type="button"
             class="btn btn-icon btn-sm btn-secondary animate-pulse fs-sm bg-body border-0 position-absolute top-0 end-0 z-2 mt-1 mt-sm-2 me-1 me-sm-2"
@@ -46,7 +49,7 @@ const displayProducts = (products) => {
             <i class="ci-heart animate-target"></i>
           </button>
           <a class="d-block p-2 p-lg-3" 
-             href="shop-product-grocery.html?productId=${product.Id}">  
+             href="shop-product-grocery.html?productId=${product.id}">  
             <div class="ratio" style="--cz-aspect-ratio: calc(160 / 191 * 100%)">
               <img src="${product.Foto1}" alt="Image"> 
             </div>
@@ -79,11 +82,29 @@ const displayProducts = (products) => {
         <div class="fs-xs text-body-secondary px-1 px-md-2 px-lg-3 pb-2 pb-md-3">Ventas: ${product.Ventas}</div>
       </div>
     `;
+ // Encuentra el enlace del producto dentro de colElement
+ const productLink = colElement.querySelector('a[href^="shop-product-grocery.html"]');
 
-        productListMVendidos.appendChild(colElement);
-    });
+ // Asegúrate de que el enlace exista
+ if (productLink) {
+     // Agrega un evento de clic al enlace
+     productLink.addEventListener('click', (event) => {
+         // Previene la navegación predeterminada
+         event.preventDefault();
+
+         // Almacena el ID del producto en sessionStorage
+         sessionStorage.setItem('sessionStorageCategoria', product.id);
+
+         // Navega a la página del producto
+         window.location.href = productLink.href;
+     });
+ }
+
+ productListMVendidos.appendChild(colElement);
+});
 };
 
+// Llama a la función fetchProducts para iniciar el proceso
 fetchProducts();
 
 
