@@ -7,7 +7,10 @@ const supabase = createClient(
 );
 
 
-
+const productListMVendidos = document.getElementById('productListMVendidos');
+const productListBebidas = document.getElementById('productListEnOferta');
+const productListComida = document.getElementById('productListCarnicos');
+const productListOtros = document.getElementById('productListOtros');
 
 
 

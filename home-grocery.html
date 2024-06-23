@@ -1759,7 +1759,7 @@
           </div>
 
           <!-- Productos grid -->
-          <div class="row row-cols-2 row-cols-sm-3 row-cols-md-4 row-cols-lg-3 row-cols-xl-4 g-4" id="productList">
+          <div class="row row-cols-2 row-cols-sm-3 row-cols-md-4 row-cols-lg-3 row-cols-xl-4 g-4" id="productListMVendidos">
             <!-- Los productos se insertarán aquí por JavaScript -->
           </div>
         </div>
@@ -1796,7 +1796,7 @@
         <!-- Special products carousel -->
         <div class="col-sm-7 mt-4 col-md-8 col-lg-9">
           <div class="d-flex align-items-center justify-content-between border-bottom pb-3 pb-md-4 mb-3 mb-lg-4">
-            <h2 class="h3 mb-0">Productos recomendados</h2>
+            <h2 class="h3 mb-0">Productos en oferta</h2>
             <div class="nav ms-3">
               <a class="nav-link animate-underline px-0 py-2" href="shop-catalog-grocery.html">
                 <span class="animate-target text-nowrap">Ver todos</span>
@@ -1820,191 +1820,14 @@
                 }
               }
             }">
-            <div class="swiper-wrapper">
-
-              <!-- Product -->
-              <div class="swiper-slide h-auto">
-                <div class="card product-card h-100 bg-transparent border-0 shadow-none">
-                  <div class="position-relative z-2">
-                    <button type="button"
-                      class="btn btn-icon btn-sm btn-secondary animate-pulse fs-sm bg-body border-0 position-absolute top-0 end-0 z-2 mt-1 mt-sm-2 me-1 me-sm-2"
-                      aria-label="Add to Wishlist">
-                      <i class="ci-heart animate-target"></i>
-                    </button>
-                    <a class="d-block p-2 p-lg-3" href="shop-product-grocery.html">
-                      <div class="ratio" style="--cz-aspect-ratio: calc(160 / 191 * 100%)">
-                        <img src="assets/img/shop/grocery/09.png" alt="Image">
-                      </div>
-                    </a>
-                    <div class="position-absolute w-100 start-0 bottom-0">
-                      <div class="d-flex justify-content-end px-2 px-lg-3 pb-2 pb-lg-3">
-                        <div
-                          class="count-input count-input-collapsible collapsed justify-content-between w-100 bg-transparent border-0 rounded-2">
-                          <button type="button" class="btn btn-icon btn-sm btn-primary" data-decrement=""
-                            aria-label="Decrement quantity">
-                            <i class="ci-minus fs-sm"></i>
-                          </button>
-                          <input type="number" class="form-control form-control-sm bg-primary text-white w-100"
-                            value="0" min="0" readonly="">
-                          <button type="button" class="product-card-button btn btn-icon btn-sm btn-secondary ms-auto"
-                            data-increment="" aria-label="Increment quantity">
-                            <span data-count-input-value=""></span>
-                            <i class="ci-plus fs-sm"></i>
-                          </button>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="card-body pt-0 px-1 px-md-2 px-lg-3 pb-2">
-                    <div class="h6 mb-2">$18.60</div>
-                    <h3 class="fs-sm lh-base mb-0">
-                      <a class="hover-effect-underline fw-normal" href="shop-product-grocery.html">Pure virgin olive oil
-                        Basso</a>
-                    </h3>
-                  </div>
-                  <div class="fs-xs text-body-secondary px-1 px-md-2 px-lg-3 pb-2 pb-md-3">1000ml</div>
-                </div>
-              </div>
-
-              <!-- Product -->
-              <div class="swiper-slide h-auto">
-                <div class="card product-card h-100 bg-transparent border-0 shadow-none">
-                  <div class="position-relative z-2">
-                    <button type="button"
-                      class="btn btn-icon btn-sm btn-secondary animate-pulse fs-sm bg-body border-0 position-absolute top-0 end-0 z-2 mt-1 mt-sm-2 me-1 me-sm-2"
-                      aria-label="Add to Wishlist">
-                      <i class="ci-heart animate-target"></i>
-                    </button>
-                    <a class="d-block p-2 p-lg-3" href="shop-product-grocery.html">
-                      <div class="ratio" style="--cz-aspect-ratio: calc(160 / 191 * 100%)">
-                        <img src="assets/img/shop/grocery/10.png" alt="Image">
-                      </div>
-                    </a>
-                    <div class="position-absolute w-100 start-0 bottom-0">
-                      <div class="d-flex justify-content-end px-2 px-lg-3 pb-2 pb-lg-3">
-                        <div
-                          class="count-input count-input-collapsible collapsed justify-content-between w-100 bg-transparent border-0 rounded-2">
-                          <button type="button" class="btn btn-icon btn-sm btn-primary" data-decrement=""
-                            aria-label="Decrement quantity">
-                            <i class="ci-minus fs-sm"></i>
-                          </button>
-                          <input type="number" class="form-control form-control-sm bg-primary text-white w-100"
-                            value="0" min="0" readonly="">
-                          <button type="button" class="product-card-button btn btn-icon btn-sm btn-secondary ms-auto"
-                            data-increment="" aria-label="Increment quantity">
-                            <span data-count-input-value=""></span>
-                            <i class="ci-plus fs-sm"></i>
-                          </button>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="card-body pt-0 px-1 px-md-2 px-lg-3 pb-2">
-                    <div class="h6 mb-2">$9.15</div>
-                    <h3 class="fs-sm lh-base mb-0">
-                      <a class="hover-effect-underline fw-normal" href="shop-product-grocery.html">Fresh pork butt
-                        steaks with rosemary</a>
-                    </h3>
-                  </div>
-                  <div class="fs-xs text-body-secondary px-1 px-md-2 px-lg-3 pb-2 pb-md-3">500g</div>
-                </div>
-              </div>
-
-              <!-- Product -->
-              <div class="swiper-slide h-auto">
-                <div class="card product-card h-100 bg-transparent border-0 shadow-none">
-                  <div class="position-relative z-2">
-                    <button type="button"
-                      class="btn btn-icon btn-sm btn-secondary animate-pulse fs-sm bg-body border-0 position-absolute top-0 end-0 z-2 mt-1 mt-sm-2 me-1 me-sm-2"
-                      aria-label="Add to Wishlist">
-                      <i class="ci-heart animate-target"></i>
-                    </button>
-                    <a class="d-block p-2 p-lg-3" href="shop-product-grocery.html">
-                      <div class="ratio" style="--cz-aspect-ratio: calc(160 / 191 * 100%)">
-                        <img src="assets/img/shop/grocery/11.png" alt="Image">
-                      </div>
-                    </a>
-                    <div class="position-absolute w-100 start-0 bottom-0">
-                      <div class="d-flex justify-content-end px-2 px-lg-3 pb-2 pb-lg-3">
-                        <div
-                          class="count-input count-input-collapsible collapsed justify-content-between w-100 bg-transparent border-0 rounded-2">
-                          <button type="button" class="btn btn-icon btn-sm btn-primary" data-decrement=""
-                            aria-label="Decrement quantity">
-                            <i class="ci-minus fs-sm"></i>
-                          </button>
-                          <input type="number" class="form-control form-control-sm bg-primary text-white w-100"
-                            value="0" min="0" readonly="">
-                          <button type="button" class="product-card-button btn btn-icon btn-sm btn-secondary ms-auto"
-                            data-increment="" aria-label="Increment quantity">
-                            <span data-count-input-value=""></span>
-                            <i class="ci-plus fs-sm"></i>
-                          </button>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="card-body pt-0 px-1 px-md-2 px-lg-3 pb-2">
-                    <div class="h6 mb-2">$3.40</div>
-                    <h3 class="fs-sm lh-base mb-0">
-                      <a class="hover-effect-underline fw-normal" href="shop-product-grocery.html">Fresh red
-                        grapefruit</a>
-                    </h3>
-                  </div>
-                  <div class="fs-xs text-body-secondary px-1 px-md-2 px-lg-3 pb-2 pb-md-3">1kg</div>
-                </div>
-              </div>
-
-              <!-- Product -->
-              <div class="swiper-slide h-auto">
-                <div class="card product-card h-100 bg-transparent border-0 shadow-none">
-                  <div class="position-relative z-2">
-                    <button type="button"
-                      class="btn btn-icon btn-sm btn-secondary animate-pulse fs-sm bg-body border-0 position-absolute top-0 end-0 z-2 mt-1 mt-sm-2 me-1 me-sm-2"
-                      aria-label="Add to Wishlist">
-                      <i class="ci-heart animate-target"></i>
-                    </button>
-                    <a class="d-block p-2 p-lg-3" href="shop-product-grocery.html">
-                      <div class="ratio" style="--cz-aspect-ratio: calc(160 / 191 * 100%)">
-                        <img src="assets/img/shop/grocery/12.png" alt="Image">
-                      </div>
-                    </a>
-                    <div class="position-absolute w-100 start-0 bottom-0">
-                      <div class="d-flex justify-content-end px-2 px-lg-3 pb-2 pb-lg-3">
-                        <div
-                          class="count-input count-input-collapsible collapsed justify-content-between w-100 bg-transparent border-0 rounded-2">
-                          <button type="button" class="btn btn-icon btn-sm btn-primary" data-decrement=""
-                            aria-label="Decrement quantity">
-                            <i class="ci-minus fs-sm"></i>
-                          </button>
-                          <input type="number" class="form-control form-control-sm bg-primary text-white w-100"
-                            value="0" min="0" readonly="">
-                          <button type="button" class="product-card-button btn btn-icon btn-sm btn-secondary ms-auto"
-                            data-increment="" aria-label="Increment quantity">
-                            <span data-count-input-value=""></span>
-                            <i class="ci-plus fs-sm"></i>
-                          </button>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="card-body pt-0 px-1 px-md-2 px-lg-3 pb-2">
-                    <div class="h6 mb-2">$2.59</div>
-                    <h3 class="fs-sm lh-base mb-0">
-                      <a class="hover-effect-underline fw-normal" href="shop-product-grocery.html">Soft creme cheese
-                        with greens Exquisa</a>
-                    </h3>
-                  </div>
-                  <div class="fs-xs text-body-secondary px-1 px-md-2 px-lg-3 pb-2 pb-md-3">150g</div>
-                </div>
-              </div>
-            </div>
+            <div class="swiper-wrapper" id="productListEnOferta"></div>
 
             <!-- Slider pagination (Bullets) -->
             <div class="swiper-pagination position-static mt-3 mt-sm-4"></div>
           </div>
         </div>
         <!-- Special products carousel -->
-        <div class="col-sm-7 mt-4 col-md-8 col-lg-12">
+        <div class="col-sm-12 mt-4 col-md-12 col-lg-12">
           <div class="d-flex align-items-center justify-content-between border-bottom pb-3 pb-md-4 mb-3 mb-lg-4">
             <h2 class="h3 mb-0">Productos cárnicos</h2>
             <div class="nav ms-3">
@@ -2030,269 +1853,9 @@
               }
             }
           }">
-            <div class="swiper-wrapper">
+            <div class="swiper-wrapper" id="productListCarnicos">
 
-              <!-- Product -->
-              <div class="swiper-slide h-auto">
-                <div class="card product-card h-100 bg-transparent border-0 shadow-none">
-                  <div class="position-relative z-2">
-                    <button type="button"
-                      class="btn btn-icon btn-sm btn-secondary animate-pulse fs-sm bg-body border-0 position-absolute top-0 end-0 z-2 mt-1 mt-sm-2 me-1 me-sm-2"
-                      aria-label="Add to Wishlist">
-                      <i class="ci-heart animate-target"></i>
-                    </button>
-                    <a class="d-block p-2 p-lg-3" href="shop-product-grocery.html">
-                      <div class="ratio" style="--cz-aspect-ratio: calc(160 / 191 * 100%)">
-                        <img src="assets/img/shop/grocery/09.png" alt="Image">
-                      </div>
-                    </a>
-                    <div class="position-absolute w-100 start-0 bottom-0">
-                      <div class="d-flex justify-content-end px-2 px-lg-3 pb-2 pb-lg-3">
-                        <div
-                          class="count-input count-input-collapsible collapsed justify-content-between w-100 bg-transparent border-0 rounded-2">
-                          <button type="button" class="btn btn-icon btn-sm btn-primary" data-decrement=""
-                            aria-label="Decrement quantity">
-                            <i class="ci-minus fs-sm"></i>
-                          </button>
-                          <input type="number" class="form-control form-control-sm bg-primary text-white w-100"
-                            value="0" min="0" readonly="">
-                          <button type="button" class="product-card-button btn btn-icon btn-sm btn-secondary ms-auto"
-                            data-increment="" aria-label="Increment quantity">
-                            <span data-count-input-value=""></span>
-                            <i class="ci-plus fs-sm"></i>
-                          </button>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="card-body pt-0 px-1 px-md-2 px-lg-3 pb-2">
-                    <div class="h6 mb-2">$18.60</div>
-                    <h3 class="fs-sm lh-base mb-0">
-                      <a class="hover-effect-underline fw-normal" href="shop-product-grocery.html">Pure virgin olive oil
-                        Basso</a>
-                    </h3>
-                  </div>
-                  <div class="fs-xs text-body-secondary px-1 px-md-2 px-lg-3 pb-2 pb-md-3">1000ml</div>
-                </div>
-              </div>
-
-              <!-- Product -->
-              <div class="swiper-slide h-auto">
-                <div class="card product-card h-100 bg-transparent border-0 shadow-none">
-                  <div class="position-relative z-2">
-                    <button type="button"
-                      class="btn btn-icon btn-sm btn-secondary animate-pulse fs-sm bg-body border-0 position-absolute top-0 end-0 z-2 mt-1 mt-sm-2 me-1 me-sm-2"
-                      aria-label="Add to Wishlist">
-                      <i class="ci-heart animate-target"></i>
-                    </button>
-                    <a class="d-block p-2 p-lg-3" href="shop-product-grocery.html">
-                      <div class="ratio" style="--cz-aspect-ratio: calc(160 / 191 * 100%)">
-                        <img src="assets/img/shop/grocery/10.png" alt="Image">
-                      </div>
-                    </a>
-                    <div class="position-absolute w-100 start-0 bottom-0">
-                      <div class="d-flex justify-content-end px-2 px-lg-3 pb-2 pb-lg-3">
-                        <div
-                          class="count-input count-input-collapsible collapsed justify-content-between w-100 bg-transparent border-0 rounded-2">
-                          <button type="button" class="btn btn-icon btn-sm btn-primary" data-decrement=""
-                            aria-label="Decrement quantity">
-                            <i class="ci-minus fs-sm"></i>
-                          </button>
-                          <input type="number" class="form-control form-control-sm bg-primary text-white w-100"
-                            value="0" min="0" readonly="">
-                          <button type="button" class="product-card-button btn btn-icon btn-sm btn-secondary ms-auto"
-                            data-increment="" aria-label="Increment quantity">
-                            <span data-count-input-value=""></span>
-                            <i class="ci-plus fs-sm"></i>
-                          </button>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="card-body pt-0 px-1 px-md-2 px-lg-3 pb-2">
-                    <div class="h6 mb-2">$9.15</div>
-                    <h3 class="fs-sm lh-base mb-0">
-                      <a class="hover-effect-underline fw-normal" href="shop-product-grocery.html">Fresh pork butt
-                        steaks with rosemary</a>
-                    </h3>
-                  </div>
-                  <div class="fs-xs text-body-secondary px-1 px-md-2 px-lg-3 pb-2 pb-md-3">500g</div>
-                </div>
-              </div>
-
-              <!-- Product -->
-              <div class="swiper-slide h-auto">
-                <div class="card product-card h-100 bg-transparent border-0 shadow-none">
-                  <div class="position-relative z-2">
-                    <button type="button"
-                      class="btn btn-icon btn-sm btn-secondary animate-pulse fs-sm bg-body border-0 position-absolute top-0 end-0 z-2 mt-1 mt-sm-2 me-1 me-sm-2"
-                      aria-label="Add to Wishlist">
-                      <i class="ci-heart animate-target"></i>
-                    </button>
-                    <a class="d-block p-2 p-lg-3" href="shop-product-grocery.html">
-                      <div class="ratio" style="--cz-aspect-ratio: calc(160 / 191 * 100%)">
-                        <img src="assets/img/shop/grocery/11.png" alt="Image">
-                      </div>
-                    </a>
-                    <div class="position-absolute w-100 start-0 bottom-0">
-                      <div class="d-flex justify-content-end px-2 px-lg-3 pb-2 pb-lg-3">
-                        <div
-                          class="count-input count-input-collapsible collapsed justify-content-between w-100 bg-transparent border-0 rounded-2">
-                          <button type="button" class="btn btn-icon btn-sm btn-primary" data-decrement=""
-                            aria-label="Decrement quantity">
-                            <i class="ci-minus fs-sm"></i>
-                          </button>
-                          <input type="number" class="form-control form-control-sm bg-primary text-white w-100"
-                            value="0" min="0" readonly="">
-                          <button type="button" class="product-card-button btn btn-icon btn-sm btn-secondary ms-auto"
-                            data-increment="" aria-label="Increment quantity">
-                            <span data-count-input-value=""></span>
-                            <i class="ci-plus fs-sm"></i>
-                          </button>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="card-body pt-0 px-1 px-md-2 px-lg-3 pb-2">
-                    <div class="h6 mb-2">$3.40</div>
-                    <h3 class="fs-sm lh-base mb-0">
-                      <a class="hover-effect-underline fw-normal" href="shop-product-grocery.html">Fresh red
-                        grapefruit</a>
-                    </h3>
-                  </div>
-                  <div class="fs-xs text-body-secondary px-1 px-md-2 px-lg-3 pb-2 pb-md-3">1kg</div>
-                </div>
-              </div>
-
-              <!-- Product -->
-              <div class="swiper-slide h-auto">
-                <div class="card product-card h-100 bg-transparent border-0 shadow-none">
-                  <div class="position-relative z-2">
-                    <button type="button"
-                      class="btn btn-icon btn-sm btn-secondary animate-pulse fs-sm bg-body border-0 position-absolute top-0 end-0 z-2 mt-1 mt-sm-2 me-1 me-sm-2"
-                      aria-label="Add to Wishlist">
-                      <i class="ci-heart animate-target"></i>
-                    </button>
-                    <a class="d-block p-2 p-lg-3" href="shop-product-grocery.html">
-                      <div class="ratio" style="--cz-aspect-ratio: calc(160 / 191 * 100%)">
-                        <img src="assets/img/shop/grocery/12.png" alt="Image">
-                      </div>
-                    </a>
-                    <div class="position-absolute w-100 start-0 bottom-0">
-                      <div class="d-flex justify-content-end px-2 px-lg-3 pb-2 pb-lg-3">
-                        <div
-                          class="count-input count-input-collapsible collapsed justify-content-between w-100 bg-transparent border-0 rounded-2">
-                          <button type="button" class="btn btn-icon btn-sm btn-primary" data-decrement=""
-                            aria-label="Decrement quantity">
-                            <i class="ci-minus fs-sm"></i>
-                          </button>
-                          <input type="number" class="form-control form-control-sm bg-primary text-white w-100"
-                            value="0" min="0" readonly="">
-                          <button type="button" class="product-card-button btn btn-icon btn-sm btn-secondary ms-auto"
-                            data-increment="" aria-label="Increment quantity">
-                            <span data-count-input-value=""></span>
-                            <i class="ci-plus fs-sm"></i>
-                          </button>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="card-body pt-0 px-1 px-md-2 px-lg-3 pb-2">
-                    <div class="h6 mb-2">$2.59</div>
-                    <h3 class="fs-sm lh-base mb-0">
-                      <a class="hover-effect-underline fw-normal" href="shop-product-grocery.html">Soft creme cheese
-                        with greens Exquisa</a>
-                    </h3>
-                  </div>
-                  <div class="fs-xs text-body-secondary px-1 px-md-2 px-lg-3 pb-2 pb-md-3">150g</div>
-                </div>
-              </div>
-              <!-- Product -->
-              <div class="swiper-slide h-auto">
-                <div class="card product-card h-100 bg-transparent border-0 shadow-none">
-                  <div class="position-relative z-2">
-                    <button type="button"
-                      class="btn btn-icon btn-sm btn-secondary animate-pulse fs-sm bg-body border-0 position-absolute top-0 end-0 z-2 mt-1 mt-sm-2 me-1 me-sm-2"
-                      aria-label="Add to Wishlist">
-                      <i class="ci-heart animate-target"></i>
-                    </button>
-                    <a class="d-block p-2 p-lg-3" href="shop-product-grocery.html">
-                      <div class="ratio" style="--cz-aspect-ratio: calc(160 / 191 * 100%)">
-                        <img src="assets/img/shop/grocery/12.png" alt="Image">
-                      </div>
-                    </a>
-                    <div class="position-absolute w-100 start-0 bottom-0">
-                      <div class="d-flex justify-content-end px-2 px-lg-3 pb-2 pb-lg-3">
-                        <div
-                          class="count-input count-input-collapsible collapsed justify-content-between w-100 bg-transparent border-0 rounded-2">
-                          <button type="button" class="btn btn-icon btn-sm btn-primary" data-decrement=""
-                            aria-label="Decrement quantity">
-                            <i class="ci-minus fs-sm"></i>
-                          </button>
-                          <input type="number" class="form-control form-control-sm bg-primary text-white w-100"
-                            value="0" min="0" readonly="">
-                          <button type="button" class="product-card-button btn btn-icon btn-sm btn-secondary ms-auto"
-                            data-increment="" aria-label="Increment quantity">
-                            <span data-count-input-value=""></span>
-                            <i class="ci-plus fs-sm"></i>
-                          </button>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="card-body pt-0 px-1 px-md-2 px-lg-3 pb-2">
-                    <div class="h6 mb-2">$2.59</div>
-                    <h3 class="fs-sm lh-base mb-0">
-                      <a class="hover-effect-underline fw-normal" href="shop-product-grocery.html">Soft creme cheese
-                        with greens Exquisa</a>
-                    </h3>
-                  </div>
-                  <div class="fs-xs text-body-secondary px-1 px-md-2 px-lg-3 pb-2 pb-md-3">150g</div>
-                </div>
-              </div>
-              <!-- Product -->
-              <div class="swiper-slide h-auto">
-                <div class="card product-card h-100 bg-transparent border-0 shadow-none">
-                  <div class="position-relative z-2">
-                    <button type="button"
-                      class="btn btn-icon btn-sm btn-secondary animate-pulse fs-sm bg-body border-0 position-absolute top-0 end-0 z-2 mt-1 mt-sm-2 me-1 me-sm-2"
-                      aria-label="Add to Wishlist">
-                      <i class="ci-heart animate-target"></i>
-                    </button>
-                    <a class="d-block p-2 p-lg-3" href="shop-product-grocery.html">
-                      <div class="ratio" style="--cz-aspect-ratio: calc(160 / 191 * 100%)">
-                        <img src="assets/img/shop/grocery/12.png" alt="Image">
-                      </div>
-                    </a>
-                    <div class="position-absolute w-100 start-0 bottom-0">
-                      <div class="d-flex justify-content-end px-2 px-lg-3 pb-2 pb-lg-3">
-                        <div
-                          class="count-input count-input-collapsible collapsed justify-content-between w-100 bg-transparent border-0 rounded-2">
-                          <button type="button" class="btn btn-icon btn-sm btn-primary" data-decrement=""
-                            aria-label="Decrement quantity">
-                            <i class="ci-minus fs-sm"></i>
-                          </button>
-                          <input type="number" class="form-control form-control-sm bg-primary text-white w-100"
-                            value="0" min="0" readonly="">
-                          <button type="button" class="product-card-button btn btn-icon btn-sm btn-secondary ms-auto"
-                            data-increment="" aria-label="Increment quantity">
-                            <span data-count-input-value=""></span>
-                            <i class="ci-plus fs-sm"></i>
-                          </button>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="card-body pt-0 px-1 px-md-2 px-lg-3 pb-2">
-                    <div class="h6 mb-2">$2.59</div>
-                    <h3 class="fs-sm lh-base mb-0">
-                      <a class="hover-effect-underline fw-normal" href="shop-product-grocery.html">Soft creme cheese
-                        with greens Exquisa</a>
-                    </h3>
-                  </div>
-                  <div class="fs-xs text-body-secondary px-1 px-md-2 px-lg-3 pb-2 pb-md-3">150g</div>
-                </div>
-              </div>
+               
             </div>
 
             <!-- Slider pagination (Bullets) -->
@@ -2300,7 +1863,7 @@
           </div>
         </div>
         <!-- Special products carousel -->
-        <div class="col-sm-7 mt-4 col-md-8 col-lg-12">
+        <div class="col-sm-12 mt-4 col-md-12 col-lg-12">
           <div class="d-flex align-items-center justify-content-between border-bottom pb-3 pb-md-4 mb-3 mb-lg-4">
             <h2 class="h3 mb-0">Productos lácteos</h2>
             <div class="nav ms-3">
@@ -2598,7 +2161,7 @@
           </div>
         </div>
         <!-- Special products carousel -->
-        <div class="col-sm-7 mt-4 col-md-8 col-lg-12">
+        <div class="col-sm-12 mt-12 col-md-12 col-lg-12">
           <div class="d-flex align-items-center justify-content-between border-bottom pb-3 pb-md-4 mb-3 mb-lg-4">
             <h2 class="h3 mb-0">Bebidas</h2>
             <div class="nav ms-3">
