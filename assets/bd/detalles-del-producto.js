@@ -32,8 +32,8 @@ document.addEventListener('DOMContentLoaded', async function() {
       document.getElementById('descripcionProductoStock').textContent = data.Stock;
       document.getElementById('descripcionProductoCantidad').textContent = data.Cantidad;
       document.getElementById('descripcionProductoImg1').src = data.Foto1;
-      document.getElementById('descripcionProductoImg2').src = data.Foto1;
-      document.getElementById('descripcionProductoImg3').src = data.Foto1; // Asegúrate de que 'Cantidad' es un campo en tu tabla
+      document.getElementById('descripcionProductoImg2').src = data.Foto2;
+      document.getElementById('descripcionProductoImg3').src = data.Foto3;; // Asegúrate de que 'Cantidad' es un campo en tu tabla
     }
   } catch (error) {
     console.error('Error fetching product details:', error);
