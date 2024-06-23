@@ -43,6 +43,20 @@
   <link rel="preload" href="assets/css/theme.rtl.min.css" as="style">
   <link rel="stylesheet" href="assets/css/theme.min.css" id="theme-styles">
 
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      // Asegúrate de que el elemento 'breadcrumbCategoria' exista en el DOM
+      var elementoBreadcrumb = document.getElementById('breadcrumbCategoria');
+
+      if (elementoBreadcrumb) {
+        // Obtén el valor de 'sessionStorageCategoria' de sessionStorage
+        var valorCategoria = sessionStorage.getItem('Categoria');
+
+        // Asigna el valor a 'breadcrumbCategoria'
+        elementoBreadcrumb.textContent = valorCategoria;
+      }
+    });
+  </script>
   <!-- Customizer -->
   <script src="assets/js/customizer.min.js"></script>
 </head>
@@ -1602,7 +1616,7 @@
       <ol class="breadcrumb mb-0">
         <li class="breadcrumb-item"><a href="home-grocery.html">Hogar</a></li>
         <li class="breadcrumb-item"><a href="shop-catalog-grocery.html">Comercio</a></li>
-        <li class="breadcrumb-item active" aria-current="page">Página del producto</li>
+        <li class="breadcrumb-item active" aria-current="page" id="breadcrumbCategoria">Página del producto</li>
       </ol>
     </nav>
 
@@ -1624,17 +1638,17 @@
               <div class="swiper-wrapper flex-column">
                 <div class="swiper-slide swiper-thumb">
                   <div class="ratio ratio-1x1" style="max-width: 94px">
-                    <img src="assets/img/shop/grocery/product/th01.png" class="swiper-thumb-img" alt="Thumbnail">
+                    <img id="descripcionProductoImg1" src="" class="swiper-thumb-img" alt="Thumbnail">
                   </div>
                 </div>
                 <div class="swiper-slide swiper-thumb">
                   <div class="ratio ratio-1x1" style="max-width: 94px">
-                    <img src="assets/img/shop/grocery/product/th02.png" class="swiper-thumb-img" alt="Thumbnail">
+                    <img id="descripcionProductoImg1" src="" class="swiper-thumb-img" alt="Thumbnail">
                   </div>
                 </div>
                 <div class="swiper-slide swiper-thumb">
                   <div class="ratio ratio-1x1" style="max-width: 94px">
-                    <img src="assets/img/shop/grocery/product/th03.png" class="swiper-thumb-img" alt="Thumbnail">
+                    <img id="descripcionProductoImg1" src="" class="swiper-thumb-img" alt="Thumbnail">
                   </div>
                 </div>
               </div>
@@ -1653,21 +1667,21 @@
               }">
               <div class="swiper-wrapper">
                 <div class="swiper-slide">
-                  <a class="ratio ratio-1x1 d-block cursor-zoom-in" href="assets/img/shop/grocery/product/01.png"
+                  <a class="ratio ratio-1x1 d-block cursor-zoom-in" href=""
                     data-glightbox="" data-gallery="product-gallery">
-                    <img src="assets/img/shop/grocery/product/01.png" alt="Preview">
+                    <img id="descripcionProductoImg1" src="" alt="Preview">
                   </a>
                 </div>
                 <div class="swiper-slide">
-                  <a class="ratio ratio-1x1 d-block cursor-zoom-in" href="assets/img/shop/grocery/product/02.png"
+                  <a class="ratio ratio-1x1 d-block cursor-zoom-in" href=""
                     data-glightbox="" data-gallery="product-gallery">
-                    <img src="assets/img/shop/grocery/product/02.png" alt="Preview">
+                    <img id="descripcionProductoImg1" src="" alt="Preview">
                   </a>
                 </div>
                 <div class="swiper-slide">
-                  <a class="ratio ratio-1x1 d-block cursor-zoom-in" href="assets/img/shop/grocery/product/03.png"
+                  <a class="ratio ratio-1x1 d-block cursor-zoom-in" href=""
                     data-glightbox="" data-gallery="product-gallery">
-                    <img src="assets/img/shop/grocery/product/03.png" alt="Preview">
+                    <img id="descripcionProductoImg1" src="" alt="Preview">
                   </a>
                 </div>
               </div>
@@ -1682,16 +1696,16 @@
         <!-- Product details -->
         <div class="col-md-6 col-lg-5 position-relative">
           <div class="ps-xxl-3">
-            <p class="fs-sm text-body-secondary">Cereals / Nestlé</p>
-            <h1 id="nombre-producto" class="h5 mb-2"></h1>
-            <div id="cantidad-producto" class="fs-sm fw-medium"></div>
+            <p class="fs-sm text-body-secondary" id="descripcionProductoCategoria">Cereals / Nestlé</p>
+            <h1  id="descripcionProductoNombre" class="h5 mb-2"></h1>
+            <div  id="descripcionProductoCantidad" class="fs-sm fw-medium"></div>
             <div class="border rounded-pill px-4 py-2 my-4">
               <div class="text-dark-emphasis fs-sm py-1">
                 Le entregaremos su mercancía lo antes posible
                 <a class="text-dark-emphasis fw-medium ms-1" href="#!">Ver disponibilidad</a>
               </div>
             </div>
-            <div id="precio-producto" class="h3"></div>
+            <div id="descripcionProductoPrecio" class="h3"></div>
             <div class="d-flex gap-3 mb-4">
               <div class="count-input flex-shrink-0 rounded-pill">
                 <button type="button" class="btn btn-icon btn-lg" data-decrement="" aria-label="Decrement quantity"
@@ -2819,10 +2833,6 @@
     const urlParams = new URLSearchParams(window.location.search);
 const productId = urlParams.get('productId'); 
 
-    document.getElementById("nombre-producto").innerHTML = data[0].Nombre;
-    document.getElementById("precio-producto").innerHTML = "$" + data[0].PrecioCUP;
-    document.getElementById("cantidad-producto").innerHTML = data[0].Cantidad;
-    document.getElementById("descripcion-producto").innerHTML = data[0].Nombre;
   </script>
 
   <!-- Bootstrap + Theme scripts -->
