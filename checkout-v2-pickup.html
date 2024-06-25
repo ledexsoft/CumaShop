@@ -1372,24 +1372,24 @@
       <!-- Breadcrumb -->
       <nav class="container pt-1 pt-md-0 my-3 my-md-4" aria-label="breadcrumb">
         <ol class="breadcrumb mb-0">
-          <li class="breadcrumb-item"><a href="home-grocery.html">Home</a></li>
-          <li class="breadcrumb-item"><a href="shop-catalog-grocery.html">Shop</a></li>
-          <li class="breadcrumb-item"><a href="checkout-v2-cart.html">Cart</a></li>
-          <li class="breadcrumb-item active" aria-current="page">Checkout</li>
+          <li class="breadcrumb-item"><a href="home-grocery.html">Inicio</a></li>
+          <li class="breadcrumb-item"><a href="shop-catalog-grocery.html">Tienda</a></li>
+          <li class="breadcrumb-item"><a href="checkout-v2-cart.html">Carrito</a></li>
+          <li class="breadcrumb-item active" aria-current="page">Confirmar pedido</li>
         </ol>
       </nav>
 
 
       <!-- Checkout form + Order summary -->
       <section class="container pb-5 mb-2 mb-md-3 mb-lg-4 mb-xl-5">
-        <h1 class="h3 mb-4">Checkout</h1>
+        <h1 class="h3 mb-4">Confirmar pedido</h1>
         <div class="row">
 
           <!-- Checkout form -->
           <div class="col-lg-8 col-xl-7 mb-5 mb-lg-0">
 
             <!-- Pickup store section -->
-            <h2 class="h5 mb-4">Pickup from the store</h2>
+            <h2 class="h5 mb-4">Recogida en la tienda</h2>
             <div class="d-flex align-items-start justify-content-between">
               <div class="d-flex align-items-start fs-sm me-3">
                 <i class="ci-map-pin fs-base text-primary me-2"></i>
@@ -1399,27 +1399,27 @@
                 </div>
               </div>
               <div class="nav">
-                <a class="nav-link text-decoration-underline text-nowrap p-0" href="#deliveryOptions" data-bs-toggle="offcanvas" aria-controls="deliveryOptions">Change store</a>
+                <a class="nav-link text-decoration-underline text-nowrap p-0" href="#deliveryOptions" data-bs-toggle="offcanvas" aria-controls="deliveryOptions">Cambiar tienda</a>
               </div>
             </div>
 
             <!-- Pickup date and time section -->
-            <h2 class="h5 mt-5 mb-4">Pickup date and time</h2>
+            <h2 class="h5 mt-5 mb-4">Fecha y hora de recogida</h2>
             <div class="d-flex flex-wrap gap-3">
               <div>
                 <input type="radio" class="btn-check" name="date" id="today" checked="">
-                <label class="btn btn-outline-secondary rounded-pill" for="today">Today</label>
+                <label class="btn btn-outline-secondary rounded-pill" for="today">Hoy</label>
               </div>
               <div>
                 <input type="radio" class="btn-check" name="date" id="tomorrow">
-                <label class="btn btn-outline-secondary rounded-pill" for="tomorrow">Tomorrow</label>
+                <label class="btn btn-outline-secondary rounded-pill" for="tomorrow">Mañana</label>
               </div>
               <div>
                 <input type="radio" class="btn-check" name="date" id="other-date">
-                <label class="btn btn-outline-secondary rounded-pill" for="other-date" data-bs-toggle="offcanvas" data-bs-target="#deliveryDateTime" aria-controls="deliveryDateTime">Other date</label>
+                <label class="btn btn-outline-secondary rounded-pill" for="other-date" data-bs-toggle="offcanvas" data-bs-target="#deliveryDateTime" aria-controls="deliveryDateTime">Otro día</label>
               </div>
             </div>
-            <div class="fs-sm mt-4">Closest time of receipt</div>
+            <div class="fs-sm mt-4">Hora más cercana de recepción</div>
             <div class="d-flex flex-wrap gap-3 mt-3">
               <div>
                 <input type="radio" class="btn-check" name="time" id="time-1" checked="">
@@ -1444,7 +1444,7 @@
             </div>
 
             <!-- Payment method section -->
-            <h2 class="h5 mt-5 mb-0">Payment method</h2>
+            <h2 class="h5 mt-5 mb-0">Método de pago</h2>
             <div id="paymentMethod" role="list">
 
               <!-- Upon receipt -->
@@ -1452,7 +1452,7 @@
                 <div class="form-check mb-0" role="listitem" data-bs-toggle="collapse" data-bs-target="#upon-receipt" aria-expanded="true" aria-controls="upon-receipt">
                   <label class="form-check-label text-dark-emphasis fw-semibold">
                     <input type="radio" class="form-check-input fs-base me-2 me-sm-3" name="payment-method" checked="">
-                    Upon receipt
+                    Al recibir en la tienda
                   </label>
                 </div>
                 <div class="collapse show" id="upon-receipt" data-bs-parent="#paymentMethod"></div>
@@ -1463,7 +1463,7 @@
                 <div class="form-check mb-0" role="listitem" data-bs-toggle="collapse" data-bs-target="#card" aria-expanded="false" aria-controls="card">
                   <label class="form-check-label d-flex align-items-center text-dark-emphasis fw-semibold">
                     <input type="radio" class="form-check-input fs-base me-2 me-sm-3" name="payment-method">
-                    Credit or debit card
+                    Tarjeta de crédito o débito
                     <span class="d-none d-sm-flex gap-2 ms-3">
                       <img src="assets/img/payment-methods/amex.svg" class="d-block bg-info rounded-1" width="36" alt="Amex">
                       <img src="assets/img/payment-methods/visa-light-mode.svg" class="d-none-dark" width="36" alt="Visa">
@@ -1517,18 +1517,18 @@
             </div>
 
             <!-- Packaging section -->
-            <h2 class="h5 mt-5 mb-4">Packaging</h2>
+            <h2 class="h5 mt-5 mb-4">Embalaje</h2>
             <div class="alert alert-success text-dark-emphasis fs-sm border-0 rounded-4 mb-4" role="alert">
-              We are eco-friendly company 🍏, so we use as little plastic as possible.
+              Somos una empresa ecológica 🍏, por eso utilizamos la menor cantidad de plástico posible.
             </div>
             <div class="d-flex flex-column gap-3">
               <div class="form-check m-0">
                 <input type="radio" class="form-check-input" id="bags" name="packaging">
-                <label for="bags" class="form-check-label text-dark-emphasis fw-medium">Branded bags <span class="text-body-secondary">(absorbent polyester)</span></label>
+                <label for="bags" class="form-check-label text-dark-emphasis fw-medium">Bolsas de marca <span class="text-body-secondary">(poliéster absorbente)</span></label>
               </div>
               <div class="form-check m-0">
                 <input type="radio" class="form-check-input" id="eco" name="packaging">
-                <label for="eco" class="form-check-label text-dark-emphasis fw-medium">Eco-friendly packaging <span class="text-body-secondary">(cardboard packaging)</span></label>
+                <label for="eco" class="form-check-label text-dark-emphasis fw-medium">Envases ecológicos <span class="text-body-secondary">(envases de cartón)</span></label>
               </div>
             </div>
           </div>
@@ -1538,40 +1538,40 @@
           <aside class="col-lg-4 offset-xl-1" style="margin-top: -115px">
             <div class="position-sticky top-0" style="padding-top: 115px">
               <div class="d-flex align-items-center justify-content-between border-bottom pb-4 mb-4">
-                <h2 class="h5 mb-0 me-3">Order summary</h2>
+                <h2 class="h5 mb-0 me-3">Resumen del pedido</h2>
                 <div class="nav">
-                  <a class="nav-link text-decoration-underline p-0" href="checkout-v2-cart.html">Edit</a>
+                  <a class="nav-link text-decoration-underline p-0" href="checkout-v2-cart.html">Editar</a>
                 </div>
               </div>
               <ul class="list-unstyled fs-sm gap-3 mb-0">
                 <li class="d-flex justify-content-between">
-                  Subtotal (8 items):
+                  Subtotal (8 artículos):
                   <span class="text-dark-emphasis fw-medium">$71.70</span>
                 </li>
                 <li class="d-flex justify-content-between">
-                  Saving:
+                  Ahorro:
                   <span class="text-danger fw-medium">-$2.79</span>
                 </li>
               </ul>
               <div class="border-top pt-4 mt-4">
                 <div class="d-flex justify-content-between mb-4">
-                  <span class="fs-sm">Estimated total:</span>
+                  <span class="fs-sm">Total Estimado:</span>
                   <span class="h5 mb-0">$68.91</span>
                 </div>
                 <div class="alert d-flex alert-warning fs-sm rounded-4 mb-4" role="alert">
                   <i class="ci-info fs-lg pe-1 mt-1 me-2"></i>
-                  <div>There is a weighted product in the cart. The actual amount may differ from the indicated amount.</div>
+                  <div>Hay un producto ponderado en el carrito. El importe real puede diferir del importe indicado.</div>
                 </div>
                 <div class="mb-4">
-                  <label for="order-note" class="form-label">Order note</label>
+                  <label for="order-note" class="form-label">Nota de pedido</label>
                   <textarea class="form-control rounded-5" id="order-note" rows="3"></textarea>
                 </div>
                 <div class="form-check mb-4">
                   <input type="checkbox" class="form-check-input" id="age">
-                  <label for="age" class="form-check-label">The order has products with age restrictions. I confirm that <span class="fw-semibold">I am at least 18 years old.</span></label>
+                  <label for="age" class="form-check-label">El pedido tiene productos con restricciones de edad. Confirmo que <span class="fw-semibold">tengo al menos 18 años.</span></label>
                 </div>
                 <a class="btn btn-lg btn-primary w-100 rounded-pill" href="checkout-v2-thankyou.html">
-                  Confirm the order
+                  Confirmar el pedido
                   <i class="ci-chevron-right fs-lg ms-1 me-n1"></i>
                 </a>
               </div>
@@ -1582,177 +1582,7 @@
     </main>
 
 
-    <!-- Page footer -->
-    <footer class="footer bg-dark pb-4" data-bs-theme="dark">
-
-      <!-- Subscription -->
-      <div class="border-bottom py-5">
-        <div class="container py-sm-1 py-md-2 py-lg-3">
-          <div class="text-center mx-auto" style="max-width: 580px">
-            <h3 class="pb-1 mb-2">Stay in touch with us</h3>
-            <p class="fs-sm text-body">Receive the latest updates about our products &amp; promotions</p>
-            <form class="needs-validation position-relative d-flex flex-column flex-sm-row gap-2 pt-3" novalidate="">
-              <input type="email" class="form-control form-control-lg rounded-pill text-start" placeholder="You email" aria-label="Your email address" required="">
-              <div class="invalid-tooltip bg-transparent p-0">Please enter you email address!</div>
-              <button type="submit" class="btn btn-lg btn-primary rounded-pill">Subscribe</button>
-            </form>
-          </div>
-        </div>
-      </div>
-
-      <div class="container py-4 py-md-5">
-        <div class="row pt-3 pb-4 py-md-1 py-lg-3">
-
-          <!-- Promo text + Social account links -->
-          <div class="col-lg-3 text-center text-lg-start pb-sm-2 pb-md-0 mb-4 mb-md-5 mb-lg-0">
-            <h4 class="pb-2 mb-1">
-              <a class="text-dark-emphasis text-decoration-none" href="home-grocery.html">Cartzilla</a>
-            </h4>
-            <p class="fs-sm text-body mx-auto" style="max-width: 480px">With a wide selection of fresh produce, pantry staples, and household essentials, we've got everything you need just a click away.</p>
-            <div class="d-flex justify-content-center justify-content-lg-start gap-2 pt-2 pt-md-3">
-              <a class="btn btn-icon fs-base btn-outline-secondary border-0" href="#!" data-bs-toggle="tooltip" data-bs-template="<div class=&quot;tooltip fs-xs mb-n2&quot; role=&quot;tooltip&quot;><div class=&quot;tooltip-inner bg-transparent text-white p-0&quot;></div></div>" title="Instagram" aria-label="Follow us on Instagram">
-                <i class="ci-instagram"></i>
-              </a>
-              <a class="btn btn-icon fs-base btn-outline-secondary border-0" href="#!" data-bs-toggle="tooltip" data-bs-template="<div class=&quot;tooltip fs-xs mb-n2&quot; role=&quot;tooltip&quot;><div class=&quot;tooltip-inner bg-transparent text-white p-0&quot;></div></div>" title="Facebook" aria-label="Follow us on Facebook">
-                <i class="ci-facebook"></i>
-              </a>
-              <a class="btn btn-icon fs-base btn-outline-secondary border-0" href="#!" data-bs-toggle="tooltip" data-bs-template="<div class=&quot;tooltip fs-xs mb-n2&quot; role=&quot;tooltip&quot;><div class=&quot;tooltip-inner bg-transparent text-white p-0&quot;></div></div>" title="Telegram" aria-label="Follow us on Telegram">
-                <i class="ci-telegram"></i>
-              </a>
-              <a class="btn btn-icon fs-base btn-outline-secondary border-0" href="#!" data-bs-toggle="tooltip" data-bs-template="<div class=&quot;tooltip fs-xs mb-n2&quot; role=&quot;tooltip&quot;><div class=&quot;tooltip-inner bg-transparent text-white p-0&quot;></div></div>" title="WhatsApp" aria-label="Follow us on WhatsApp">
-                <i class="ci-whatsapp"></i>
-              </a>
-            </div>
-          </div>
-
-          <!-- Columns with links that are turned into accordion on screens < 500px wide (sm breakpoint) -->
-          <div class="col-lg-8 offset-lg-1">
-            <div class="accordion" id="footerLinks">
-              <div class="row">
-                <div class="accordion-item col-sm-3 border-0">
-                  <h6 class="accordion-header" id="categoriesHeading">
-                    <span class="text-dark-emphasis d-none d-sm-block">Categories</span>
-                    <button type="button" class="accordion-button collapsed py-3 d-sm-none" data-bs-toggle="collapse" data-bs-target="#categoriesLinks" aria-expanded="false" aria-controls="categoriesLinks">Categories</button>
-                  </h6>
-                  <div class="accordion-collapse collapse d-sm-block" id="categoriesLinks" aria-labelledby="categoriesHeading" data-bs-parent="#footerLinks">
-                    <ul class="nav flex-column gap-2 pt-sm-3 pb-3 pb-sm-0 mt-n1 mb-1 mb-sm-0">
-                      <li class="d-flex w-100 pt-1">
-                        <a class="nav-link animate-underline animate-target d-inline fw-normal text-truncate p-0" href="#!">Weekly sale</a>
-                      </li>
-                      <li class="d-flex w-100 pt-1">
-                        <a class="nav-link animate-underline animate-target d-inline fw-normal text-truncate p-0" href="#!">Special price</a>
-                      </li>
-                      <li class="d-flex w-100 pt-1">
-                        <a class="nav-link animate-underline animate-target d-inline fw-normal text-truncate p-0" href="#!">Easter is coming</a>
-                      </li>
-                      <li class="d-flex w-100 pt-1">
-                        <a class="nav-link animate-underline animate-target d-inline fw-normal text-truncate p-0" href="#!">Italian dinner</a>
-                      </li>
-                      <li class="d-flex w-100 pt-1">
-                        <a class="nav-link animate-underline animate-target d-inline fw-normal text-truncate p-0" href="#!">Fresh fruits</a>
-                      </li>
-                      <li class="d-flex w-100 pt-1">
-                        <a class="nav-link animate-underline animate-target d-inline fw-normal text-truncate p-0" href="#!">Exotic fruits</a>
-                      </li>
-                    </ul>
-                  </div>
-                  <hr class="d-sm-none my-0">
-                </div>
-                <div class="accordion-item col-sm-3 border-0">
-                  <h6 class="accordion-header" id="companyHeading">
-                    <span class="text-dark-emphasis d-none d-sm-block">Company</span>
-                    <button type="button" class="accordion-button collapsed py-3 d-sm-none" data-bs-toggle="collapse" data-bs-target="#companyLinks" aria-expanded="false" aria-controls="companyLinks">Company</button>
-                  </h6>
-                  <div class="accordion-collapse collapse d-sm-block" id="companyLinks" aria-labelledby="companyHeading" data-bs-parent="#footerLinks">
-                    <ul class="nav flex-column gap-2 pt-sm-3 pb-3 pb-sm-0 mt-n1 mb-1 mb-sm-0">
-                      <li class="d-flex w-100 pt-1">
-                        <a class="nav-link animate-underline animate-target d-inline fw-normal text-truncate p-0" href="#!">Blog and news</a>
-                      </li>
-                      <li class="d-flex w-100 pt-1">
-                        <a class="nav-link animate-underline animate-target d-inline fw-normal text-truncate p-0" href="#!">About us</a>
-                      </li>
-                      <li class="d-flex w-100 pt-1">
-                        <a class="nav-link animate-underline animate-target d-inline fw-normal text-truncate p-0" href="#!">FAQ page</a>
-                      </li>
-                      <li class="d-flex w-100 pt-1">
-                        <a class="nav-link animate-underline animate-target d-inline fw-normal text-truncate p-0" href="#!">Contact us</a>
-                      </li>
-                      <li class="d-flex w-100 pt-1">
-                        <a class="nav-link animate-underline animate-target d-inline fw-normal text-truncate p-0" href="#!">Careers</a>
-                      </li>
-                    </ul>
-                  </div>
-                  <hr class="d-sm-none my-0">
-                </div>
-                <div class="accordion-item col-sm-3 border-0">
-                  <h6 class="accordion-header" id="accountHeading">
-                    <span class="text-dark-emphasis d-none d-sm-block">Account</span>
-                    <button type="button" class="accordion-button collapsed py-3 d-sm-none" data-bs-toggle="collapse" data-bs-target="#accountLinks" aria-expanded="false" aria-controls="accountLinks">Account</button>
-                  </h6>
-                  <div class="accordion-collapse collapse d-sm-block" id="accountLinks" aria-labelledby="accountHeading" data-bs-parent="#footerLinks">
-                    <ul class="nav flex-column gap-2 pt-sm-3 pb-3 pb-sm-0 mt-n1 mb-1 mb-sm-0">
-                      <li class="d-flex w-100 pt-1">
-                        <a class="nav-link animate-underline animate-target d-inline fw-normal text-truncate p-0" href="#!">Your account</a>
-                      </li>
-                      <li class="d-flex w-100 pt-1">
-                        <a class="nav-link animate-underline animate-target d-inline fw-normal text-truncate p-0" href="#!">Shipping &amp; policies</a>
-                      </li>
-                      <li class="d-flex w-100 pt-1">
-                        <a class="nav-link animate-underline animate-target d-inline fw-normal text-truncate p-0" href="#!">Refunds &amp; replacements</a>
-                      </li>
-                      <li class="d-flex w-100 pt-1">
-                        <a class="nav-link animate-underline animate-target d-inline fw-normal text-truncate p-0" href="#!">Order tracking</a>
-                      </li>
-                      <li class="d-flex w-100 pt-1">
-                        <a class="nav-link animate-underline animate-target d-inline fw-normal text-truncate p-0" href="#!">Delivery info</a>
-                      </li>
-                      <li class="d-flex w-100 pt-1">
-                        <a class="nav-link animate-underline animate-target d-inline fw-normal text-truncate p-0" href="#!">Taxes &amp; fees</a>
-                      </li>
-                    </ul>
-                  </div>
-                  <hr class="d-sm-none my-0">
-                </div>
-                <div class="accordion-item col-sm-3 border-0">
-                  <h6 class="accordion-header" id="customerHeading">
-                    <span class="text-dark-emphasis d-none d-sm-block">Customer service</span>
-                    <button type="button" class="accordion-button collapsed py-3 d-sm-none" data-bs-toggle="collapse" data-bs-target="#customerLinks" aria-expanded="false" aria-controls="customerLinks">Customer service</button>
-                  </h6>
-                  <div class="accordion-collapse collapse d-sm-block" id="customerLinks" aria-labelledby="customerHeading" data-bs-parent="#footerLinks">
-                    <ul class="nav flex-column gap-2 pt-sm-3 pb-3 pb-sm-0 mt-n1 mb-1 mb-sm-0">
-                      <li class="d-flex w-100 pt-1">
-                        <a class="nav-link animate-underline animate-target d-inline fw-normal text-truncate p-0" href="#!">Payment methods</a>
-                      </li>
-                      <li class="d-flex w-100 pt-1">
-                        <a class="nav-link animate-underline animate-target d-inline fw-normal text-truncate p-0" href="#!">Money back guarantee</a>
-                      </li>
-                      <li class="d-flex w-100 pt-1">
-                        <a class="nav-link animate-underline animate-target d-inline fw-normal text-truncate p-0" href="#!">Refunds &amp; replacements</a>
-                      </li>
-                      <li class="d-flex w-100 pt-1">
-                        <a class="nav-link animate-underline animate-target d-inline fw-normal text-truncate p-0" href="#!">Order tracking</a>
-                      </li>
-                      <li class="d-flex w-100 pt-1">
-                        <a class="nav-link animate-underline animate-target d-inline fw-normal text-truncate p-0" href="#!">Delivery info</a>
-                      </li>
-                      <li class="d-flex w-100 pt-1">
-                        <a class="nav-link animate-underline animate-target d-inline fw-normal text-truncate p-0" href="#!">Shipping</a>
-                      </li>
-                    </ul>
-                  </div>
-                  <hr class="d-sm-none my-0">
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <!-- Copyright -->
-      <p class="container fs-xs text-body text-center text-lg-start pb-md-3 mb-0">
-        © All rights reserved. Made with <i class="ci-heart-filled align-middle"></i> by <span class="animate-underline"><a class="animate-target text-white text-decoration-none" href="https://createx.studio/" target="_blank" rel="noreferrer">Createx Studio</a></span>
-      </p>
-    </footer>
+ 
 
 
     <!-- Back to top button -->
