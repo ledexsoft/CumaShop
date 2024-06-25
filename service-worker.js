@@ -15,7 +15,7 @@ const urlsToCache = [
   '/assets/vendor/swiper/swiper-bundle.min.css',
   '/assets/vendor/swiper/swiper-bundle.min.js',
   '/assets/js/theme.min.js'
-  // Añade aquí más URLs de recursos que quieras cachear.
+  // Añade aquí más URLs de recursos que quieras cachear
 ];
 
 self.addEventListener('install', (event) => {
