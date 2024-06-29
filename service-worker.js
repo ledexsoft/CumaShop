@@ -31,7 +31,6 @@ const urlsToCache = [
   '/assets/img/home/grocery/banner02.png',
   '/assets/icons/cartzilla-icons.woff2',
   '/assets/icons/cartzilla-icons.min.css',
-  '/assets/fonts/inter-variable-latin.woff2',
   '/assets/img/mega-menu/grocery/th01.png',
   '/assets/img/mega-menu/grocery/th02.png',
   '/assets/img/mega-menu/grocery/th03.png',
@@ -49,13 +48,9 @@ const urlsToCache = [
   '/assets/img/shop/grocery/categories/09.png',
   '/assets/img/shop/grocery/categories/10.png',
   '/assets/img/shop/grocery/categories/11.png',
-  '/assets/img/shop/grocery/categories/05.png',
-  '/assets/img/shop/grocery/categories/06.png',
-  '/assets/img/shop/grocery/categories/07.png',
-  '/assets/img/home/grocery/featured/03.png',
   '/assets/js/theme.min.js'
-  // Añade aquí más URLs de recursos que quieras cachear
 ];
+
 
 // Instalación del Service Worker y caché de los recursos iniciales
 self.addEventListener('install', (event) => {
