@@ -1,11 +1,14 @@
 // service-worker.js
-const CACHE_NAME = 'mi-cache-v2';
+const CACHE_NAME = 'mi-cache-v1';
 const urlsToCache = [
   '/',
   '/home-grocery.html',
   '/shop-catalog-grocery.html',
   '/shop-product-grocery.html',
   '/404-grocery.html',
+  '/assets/img/404/grocery-bg-1.png',
+  '/assets/img/404/grocery-bg-2.png',
+  '/assets/img/404/grocery.png',
   '/checkout-v2-cart.html',
   '/checkout-v2-delivery.html',
   '/checkout-v2-pickup.html',
@@ -62,8 +65,8 @@ const urlsToCache = [
   // Añade aquí más URLs de recursos que quieras cachear
 ];
 
+// Instalación del Service Worker y caché de los recursos iniciales
 self.addEventListener('install', (event) => {
-  // Realiza la instalación: carga los archivos en la caché.
   event.waitUntil(
     caches.open(CACHE_NAME)
       .then((cache) => {
@@ -73,8 +76,8 @@ self.addEventListener('install', (event) => {
   );
 });
 
+// Activación del Service Worker y limpieza de cachés antiguos
 self.addEventListener('activate', (event) => {
-  // Limpia la caché antigua.
   event.waitUntil(
     caches.keys().then((cacheNames) => {
       return Promise.all(
@@ -89,23 +92,25 @@ self.addEventListener('activate', (event) => {
   );
 });
 
+// Interceptación de solicitudes para manejar respuestas de la caché o de la red
 self.addEventListener('fetch', (event) => {
   event.respondWith(
     caches.match(event.request)
       .then((response) => {
-        // La respuesta fue encontrada en la caché, así que la retornamos.
+        // Si la respuesta está en la caché, la retornamos.
         if (response) {
           return response;
         }
-        // No está en la caché, así que hacemos una petición a la red.
-        return fetch(event.request);
-      }
-    )
+        // Intentamos la petición a la red.
+        return fetch(event.request).catch(() => {
+          // Si falla la petición de red y el recurso no está en caché, mostramos la página 404.
+          return caches.match('/404-grocery.html'); // Asegúrate de tener una página 404.html en tu caché.
+        });
+      })
   );
 });
 
-
-// Escucha para el evento push y muestra una notificación.
+// Manejo de eventos push para mostrar notificaciones
 self.addEventListener('push', (event) => {
   let data = {};
   if (event.data) {
@@ -120,7 +125,7 @@ self.addEventListener('push', (event) => {
   event.waitUntil(self.registration.showNotification(title, options));
 });
 
-// Escucha para el evento de clic en la notificación.
+// Manejo de clics en las notificaciones
 self.addEventListener('notificationclick', (event) => {
   event.notification.close(); // Cierra la notificación.
   // Maneja el clic en la notificación.
@@ -136,23 +141,5 @@ self.addEventListener('notificationclick', (event) => {
         return clients.openWindow('/');
       }
     })
-  );
-});
-
-
-self.addEventListener('fetch', (event) => {
-  event.respondWith(
-    caches.match(event.request)
-      .then((response) => {
-        // Si la respuesta está en la caché, la retornamos.
-        if (response) {
-          return response;
-        }
-        // Intentamos la petición a la red.
-        return fetch(event.request).catch(() => {
-          // Si falla la petición de red y el recurso no está en caché, mostramos la página 404.
-          return caches.match('/404.html'); // Asegúrate de tener una página 404.html en tu caché.
-        });
-      })
   );
 });
