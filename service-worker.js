@@ -17,14 +17,6 @@ const urlsToCache = [
   '/assets/js/theme-switcher.js',
   '/assets/vendor/swiper/swiper-bundle.min.css',
   '/assets/vendor/swiper/swiper-bundle.min.js',
- //  '/assets/img/shop/grocery/01.png',
- //  '/assets/img/shop/grocery/02.png',
- //  '/assets/img/shop/grocery/03.png',
- //  '/assets/img/shop/grocery/04.png',
- //  '/assets/img/shop/grocery/05.png',
- //  '/assets/img/shop/grocery/06.png',
- //  '/assets/img/shop/grocery/07.png',
- //  '/assets/img/shop/grocery/08.png',
   '/assets/img/home/grocery/featured/01.png',
   '/assets/img/home/grocery/featured/02.png',
   '/assets/img/home/grocery/featured/03.png',
@@ -110,36 +102,3 @@ self.addEventListener('fetch', (event) => {
   );
 });
 
-// Manejo de eventos push para mostrar notificaciones
-self.addEventListener('push', (event) => {
-  let data = {};
-  if (event.data) {
-    data = event.data.json();
-  }
-  const title = data.title || 'Notificación';
-  const options = {
-    body: data.body || 'Tienes una nueva notificación.',
-    icon: 'icon.png', // Asegúrate de tener un icono en la carpeta pública.
-    badge: 'badge.png' // Asegúrate de tener una insignia en la carpeta pública.
-  };
-  event.waitUntil(self.registration.showNotification(title, options));
-});
-
-// Manejo de clics en las notificaciones
-self.addEventListener('notificationclick', (event) => {
-  event.notification.close(); // Cierra la notificación.
-  // Maneja el clic en la notificación.
-  event.waitUntil(
-    clients.matchAll({ type: 'window' }).then((windowClients) => {
-      for (let i = 0; i < windowClients.length; i++) {
-        const client = windowClients[i];
-        if (client.url === '/' && 'focus' in client) {
-          return client.focus();
-        }
-      }
-      if (clients.openWindow) {
-        return clients.openWindow('/');
-      }
-    })
-  );
-});
