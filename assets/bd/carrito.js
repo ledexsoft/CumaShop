@@ -135,7 +135,7 @@ request.onsuccess = function(event) {
       item.innerHTML = `
         <a class="position-relative flex-shrink-0" href="shop-product-grocery.html">
           <span class="badge text-bg-danger position-absolute top-0 start-0 z-2 mt-0 ms-0">-$${producto.descuento}</span>
-          <img src="${producto.imagen}" width="110" alt="Thumbnail">
+          <img src="${producto.img1}" width="110" alt="Thumbnail">
         </a>
         <div class="w-100 ps-3">
           <h5 class="fs-sm fw-medium lh-base mb-2">
