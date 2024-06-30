@@ -1,5 +1,5 @@
 ﻿<!DOCTYPE html>
-<html lang="en" data-bs-theme="light" data-pwa="true">
+<html lang="es" data-bs-theme="light" data-pwa="true">
 
 <head>
   <meta charset="utf-8">
@@ -77,13 +77,13 @@
       <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
     </div>
     <div class="alert alert-success text-dark-emphasis fs-sm border-0 rounded-4 mb-0" role="alert">
-      Felicitaciones 🎉 Ha agregado más de <span class="fw-semibold">$50</span> a su carrito. <span
+      Felicitaciones 🎉 Ha agregado más de <span class="fw-semibold">$60</span> a su carrito. <span
         class="fw-semibold">¡La entrega es gratuita</span> esta vez!
     </div>
   </div>
 
   <!-- Items -->
-  <div class="offcanvas-body d-flex flex-column gap-4 pt-2">
+  <div class="offcanvas-body d-flex flex-column gap-4 pt-2" id="listCarrito">
 
     <!-- Item -->
     <div class="d-flex align-items-center">
@@ -112,83 +112,7 @@
       </div>
     </div>
 
-    <!-- Item -->
-    <div class="d-flex align-items-center">
-      <a class="flex-shrink-0" href="shop-product-grocery.html">
-        <img src="assets/img/shop/grocery/thumbs/02.png" width="110" alt="Thumbnail">
-      </a>
-      <div class="w-100 ps-3">
-        <h5 class="fs-sm fw-medium lh-base mb-2">
-          <a class="hover-effect-underline" href="shop-product-grocery.html">Pesto sauce Barilla with basil, Italy</a>
-        </h5>
-        <div class="h6 pb-1 mb-2">$3.95</div>
-        <div class="d-flex align-items-center justify-content-between">
-          <div class="count-input rounded-pill">
-            <button type="button" class="btn btn-icon btn-sm" data-decrement="" aria-label="Decrement quantity">
-              <i class="ci-minus"></i>
-            </button>
-            <input type="number" class="form-control form-control-sm" value="1" readonly="">
-            <button type="button" class="btn btn-icon btn-sm" data-increment="" aria-label="Increment quantity">
-              <i class="ci-plus"></i>
-            </button>
-          </div>
-          <button type="button" class="btn-close fs-sm" data-bs-toggle="tooltip" data-bs-custom-class="tooltip-sm"
-            data-bs-title="Remove" aria-label="Remove from cart"></button>
-        </div>
-      </div>
-    </div>
-
-    <!-- Item -->
-    <div class="d-flex align-items-center">
-      <a class="flex-shrink-0" href="shop-product-grocery.html">
-        <img src="assets/img/shop/grocery/thumbs/03.png" width="110" alt="Thumbnail">
-      </a>
-      <div class="w-100 ps-3">
-        <h5 class="fs-sm fw-medium lh-base mb-2">
-          <a class="hover-effect-underline" href="shop-product-grocery.html">Steak salmon fillet with rosmary</a>
-        </h5>
-        <div class="h6 pb-1 mb-2">$27.00</div>
-        <div class="d-flex align-items-center justify-content-between">
-          <div class="count-input rounded-pill">
-            <button type="button" class="btn btn-icon btn-sm" data-decrement="" aria-label="Decrement quantity">
-              <i class="ci-minus"></i>
-            </button>
-            <input type="number" class="form-control form-control-sm" value="2" readonly="">
-            <button type="button" class="btn btn-icon btn-sm" data-increment="" aria-label="Increment quantity">
-              <i class="ci-plus"></i>
-            </button>
-          </div>
-          <button type="button" class="btn-close fs-sm" data-bs-toggle="tooltip" data-bs-custom-class="tooltip-sm"
-            data-bs-title="Remove" aria-label="Remove from cart"></button>
-        </div>
-      </div>
-    </div>
-
-    <!-- Item -->
-    <div class="d-flex align-items-center">
-      <a class="flex-shrink-0" href="shop-product-grocery.html">
-        <img src="assets/img/shop/grocery/thumbs/04.png" width="110" alt="Thumbnail">
-      </a>
-      <div class="w-100 ps-3">
-        <h5 class="fs-sm fw-medium lh-base mb-2">
-          <a class="hover-effect-underline" href="shop-product-grocery.html">Sprite soda lemon lime, can</a>
-        </h5>
-        <div class="h6 pb-1 mb-2">$0.80</div>
-        <div class="d-flex align-items-center justify-content-between">
-          <div class="count-input rounded-pill">
-            <button type="button" class="btn btn-icon btn-sm" data-decrement="" aria-label="Decrement quantity">
-              <i class="ci-minus"></i>
-            </button>
-            <input type="number" class="form-control form-control-sm" value="2" readonly="">
-            <button type="button" class="btn btn-icon btn-sm" data-increment="" aria-label="Increment quantity">
-              <i class="ci-plus"></i>
-            </button>
-          </div>
-          <button type="button" class="btn-close fs-sm" data-bs-toggle="tooltip" data-bs-custom-class="tooltip-sm"
-            data-bs-title="Remove" aria-label="Remove from cart"></button>
-        </div>
-      </div>
-    </div>
+   
   </div>
 
   <!-- Footer -->
@@ -1367,7 +1291,7 @@
         data-bs-toggle="offcanvas" data-bs-target="#shoppingCart" aria-controls="shoppingCart"
         aria-label="Shopping cart">
         <span class="position-absolute top-0 start-100 badge fs-xs text-bg-primary rounded-pill ms-n3 z-2"
-          style="--cz-badge-padding-y: .25em; --cz-badge-padding-x: .42em">8</span>
+          style="--cz-badge-padding-y: .25em; --cz-badge-padding-x: .42em" id="badgeCantCart"></span>
         <i class="ci-shopping-cart animate-target"></i>
       </button>
     </div>
@@ -1552,12 +1476,12 @@
                   disabled="">
                   <i class="ci-minus"></i>
                 </button>
-                <input type="number" class="form-control form-control-lg" value="1" min="1" readonly="">
+                <input type="number" id="cantAddCart" class="form-control form-control-lg" value="1" min="1" readonly="">
                 <button type="button" class="btn btn-icon btn-lg" data-increment="" aria-label="Increment quantity">
                   <i class="ci-plus"></i>
                 </button>
               </div>
-              <button type="button" class="btn btn-lg btn-primary rounded-pill w-100">Añadir al carrito</button>
+              <button type="button" class="btn btn-lg btn-primary rounded-pill w-100" id="btnAddCart">Añadir al carrito</button>
             </div>
             <p id="descripcionProductoDescripción" class="fs-sm mb-4"></p>
             <div class="d-flex flex-wrap gap-3 gap-xxl-4 fs-sm text-dark-emphasis mb-2">
@@ -2146,6 +2070,7 @@ const productId = urlParams.get('productId');
   <script type="module" src="assets/bd/detalles-del-producto.js"></script>
   <script type="module" src="assets/bd/indexedDB.js"></script>
   <script type="module" src="assets/bd/localStorange.js"></script>
+  <script type="module" src="assets/bd/carrito.js"></script>
 </body>
 
 </html>
